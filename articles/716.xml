@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<doc>
+	<url auto="true" type="str" verify="true"><![CDATA[https://www.nationalgeographic.com/magazine/article/in-search-of-authentic-sea-glass]]></url>
+	<categories theme="travel" auto="true" type="list" verify="true">
+		<item type="str"><![CDATA[MAGAZINE]]></item>
+	</categories>
+	<author auto="true" type="str" verify="true"><![CDATA[ALLIE YANG]]></author>
+	<title auto="true" type="str" verify="true"><![CDATA[In search of authentic sea glass]]></title>
+	<publish_date auto="true" type="str" verify="true"><![CDATA[MARCH 10, 2022]]></publish_date>
+	<reading_time auto="true" type="str" verify="true"><![CDATA[• 2 MIN READ]]></reading_time>
+	<editor_notes auto="true" type="str" verify="true"><![CDATA[This story appears in the April 2022 issue of National Geographic magazine.]]></editor_notes>
+	<text auto="true" type="str" verify="true"><![CDATA[Enthusiasts compare it to diamonds. Sea glass—from pieces of bottles and jars—is trash, transformed by the sea and poetically reinterpreted as treasure. Its provenance points to the heyday of consumer glass production, before the rise of throwaway plastics; its allure is fueled by the childlike thrill of a discovery on the whims of time and tide.
+Now, as sea glass becomes rarer, artificial versions, sometimes made via acid etching, are supplanting the real thing. But acid etching can leave a toxic residue, making this manufactured gem, used in jewelry and decor, a potential problem. One threat: Adding fake sea glass to your fish’s aquarium could dangerously alter the water’s pH level.
+(See millions of years of history while beachcombing in San Francisco.)
+So how can you tell the difference? According to sea glass expert Richard LaMotte, authentic characteristics include minuscule C-shaped markings and green, clear, or brown coloring. Shards in red and orange are rare. Very even, silky smooth, or oily surfaces are dead giveaways for a fake.
+True sea glass can still be found, especially along shores where consumer glass was produced, such as in the Great Lakes and in the northeastern United States. LaMotte recommends searching at low tide, after a storm, during the winter months—when rough water could kick up a jewel.]]></text>
+</doc>

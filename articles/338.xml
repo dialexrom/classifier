@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<doc>
+	<url auto="true" type="str" verify="true"><![CDATA[https://www.nationalgeographic.com/magazine/article/ocean-shark-populations-are-tanking-this-is-how-fast
+]]></url>
+	<categories theme="animals" auto="true" type="list" verify="true">
+		<item type="str"><![CDATA[MAGAZINE]]></item>
+		<item type="str"><![CDATA[SHARKFEST]]></item>
+	</categories>
+	<author auto="true" type="str" verify="true"><![CDATA[MÓNICA SERRANO]]></author>
+	<title auto="true" type="str" verify="true"><![CDATA[Ocean shark populations are tanking. This is how fast.]]></title>
+	<publish_date auto="true" type="str" verify="true"><![CDATA[JULY 15, 2021]]></publish_date>
+	<reading_time auto="true" type="str" verify="true"><![CDATA[• 2 MIN READ]]></reading_time>
+	<editor_notes auto="true" type="str" verify="true"><![CDATA[National Geographic’s SharkFest celebrates the ocean’s apex predators in July. Watch Shark Beach With Chris Hemsworth and other shark programming on the network, and the feature documentary Playing With Sharks streaming on Disney+.
+This story appears in the August 2021 issue of National Geographic magazine.]]></editor_notes>
+	<text auto="true" type="str" verify="true"><![CDATA[The global abundance of ocean sharks and rays has declined by 71 percent since 1970, due to increased fishing and a lack of protections. Worldwide, sharks and rays are accidentally caught as bycatch, but in some places they're targeted for their meat as well as their fins, gill plates, leather, and liver oil. An estimated 63 million to 273 million sharks were landed in the early 2000s, a peak of shark overfishing with lasting implications.]]></text>
+</doc>

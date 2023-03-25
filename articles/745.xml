@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<doc>
+	<url auto="true" type="str" verify="true"><![CDATA[https://www.nationalgeographic.com/travel/article/world-most-romantic-destinations]]></url>
+	<categories theme="travel" auto="true" type="list" verify="true">
+		<item type="str"><![CDATA[TRAVEL]]></item>
+	</categories>
+	<author auto="true" type="str" verify="true"><![CDATA[NATIONAL GEOGRAPHIC STAFF]]></author>
+	<title auto="true" type="str" verify="true"><![CDATA[19 of the most romantic destinations in the world]]></title>
+	<publish_date auto="true" type="str" verify="true"><![CDATA[FEBRUARY 4, 2022]]></publish_date>
+	<text auto="true" type="str" verify="true"><![CDATA[Romance is in the eye of the beholder. For travelers, passion for a place can be the greatest love affair. A palm-lined coast in the south of France. The magic of a medieval city at sunset in Belgium. Swimming in a cenote in Mexico’s Yucatán Peninsula.
+It’s easy to grow accustomed to the emotional allure of travel—the giddy sense of possibility that comes when your plane lands, the serenity and gratitude you feel taking in new surroundings, and the soaring feeling of experiencing something you’ve long been anticipating.
+National Geographic’s book The World’s Most Romantic Destinations is loaded with places that are easy to fall in love with and experiences that will make your heart skip a beat. Click through this photo gallery to see a few of our favorite romantic destinations around the world.]]></text>
+</doc>

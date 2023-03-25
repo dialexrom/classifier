@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<doc>
+	<url auto="true" type="str" verify="true"><![CDATA[https://www.nationalgeographic.com/animals/article/these-animals-detect-disease-cancer-covid
+]]></url>
+	<categories theme="animals" auto="true" type="list" verify="true">
+		<item type="str"><![CDATA[ANIMALS]]></item>
+	</categories>
+	<author auto="true" type="str" verify="true"><![CDATA[LIZ LANGLEY]]></author>
+	<title auto="true" type="str" verify="true"><![CDATA[What does cancer smell like? These animals can sniff it out]]></title>
+	<publish_date auto="true" type="str" verify="true"><![CDATA[FEBRUARY 27, 2023]]></publish_date>
+	<reading_time auto="true" type="str" verify="true"><![CDATA[• 7 MIN READ]]></reading_time>
+	<text auto="true" type="str" verify="true"><![CDATA[Next time you’re irritated that ants have gotten into your kitchen, you might take a moment to consider their extraordinary powers of perception.
+These tiny animals can detect markers of illness, such as cancer. In fact, ants are just one of many creatures whose senses can register signs of human disease: dogs, rats, bees, and even tiny worms can as well.
+Here’s what we know about these animals and their incredible abilities.
+Working ants
+The silky ant, Formica fusca, a common species found throughout Europe, can be taught to identify the scent of breast cancer in urine.
+Research from the University Sorbonne Paris Nord in France published this year in Proceedings of the Royal Society B shows ants can learn to distinguish between the scent of urine derived from mice carrying human breast cancer tumors from that of healthy mice.
+Ants and other animals pick up signs of disease by perceiving various volatile organic compounds, or VOCs. These chemicals are produced in a variety of ways and can be found in exhaled breath, and in sweat, urine, and blood. Diseases can change the VOCs we emit, resulting in giving off a different odor. By placing a sugar reward near the cancer sample the ants learned to seek out that scent, a process called operant conditioning.
+“We were surprised by the rapidity of ants. In just ten minutes one ant can be trained,” says lead author Baptiste Piqueret, now a post doctoral researcher at the Max Planck Institute for Chemical Ecology in Germany.
+After scientists trained the ants they put the insects in a petri dish with urine samples from the mice with tumors and healthy mice. They spent 20 percent more time with the cancerous samples.
+Ants smell the chemicals that make up odors with olfactory receptors on their antennae. Scent is their main form of communication, says study co-author Patrizia d’Ettorre, an ethologist at the Université Sorbonne Paris Nord.
+“They recognize group members by detecting their body odor,” and use pheromones—often in tiny concentrations—to communicate as astonish array of complex signals.
+These ants also don’t sting and are “inexpensive to get and maintain. Honey and dead insects, and ants are happy,” Piqueret says. This makes them excellent candidates for such work.
+What exact chemicals the ants are smelling is unknown, says d’Ettorre, which is often the case with the other cancer-detecting animals.
+A human’s best friend
+Dogs can be trained to smell several types of cancers, including melanoma, breast and gastrointestinal cancers and some infectious diseases in humans, including malaria and Parkinson’s disease. In the U.S, dogs have worked in the field screening people for COVID-19, including at some schools in California, in several locations in Massachusetts, and at Miami Heat basketball games.
+They can also smell infectious disease in other animals, including chronic wasting disease, which affects the brains of deer and can be fatal.
+“It’s devastating to the deer and the only way to detect it is by autopsy,” says Cynthia Otto, with the University of Pennsylvania School of Veterinary Medicine.
+Dogs, however, can be trained to detect the disease in deer feces, according to a study published in the journal Prion, on which Otto was a co-author. Researchers think the dogs may possibly by smelling the infectious agent itself, Otto says, in this case and others.
+“We've done some pilot studies, looking at bacterial infections and if we train the dogs on the bacteria itself, the dogs can respond to samples from infected subjects,” she says. Medical Detection Dogs, a British charity, has trained dogs to detect a record 28 diseases, including specific bacteria.
+The difference with detecting cancer could be that what the dogs are detecting is “how the body is responding to the cancer cells,” including odors deriving from immune responses or something else. “Or it could be the cancer itself, we don’t know for sure,” Otto says.
+They could also be detecting more than one scent—or different dogs may be picking up on different scents. In an ovarian cancer study in which the odors were broken into different cohorts, “different dogs responded to different fragments,” Otto says.
+The rat detectives 
+Another animal employed to detects explosive is the African giant pouched rat.
+In 2004 the Belgian non-profit APOPO deployed trained African giant pouched rats to Mozambique “when the rats first earned external International Mine Action Standards accreditation,” says Cindy Fast, the organization’s head of training and innovation. Since then they’ve helped rid seven countries of more than 150,000 landmines.
+Tanzania, where APOPO is headquartered, doesn’t have landmines—but it is one of 30 countries with the highest rates of tuberculosis.
+APOPO’s “research suggests they detect a bouquet of odors… which are specific for Mycobacterium tuberculosis,” the bacterium that causes tuberculosis, says Lily Shallom, the organization’s communications manager.
+Like the ants, the rats get a food reward when they identify tuberculosis samples in human sputum during training. After training they act as a safety net, a back-up for human technicians.
+Each rat screens “upwards of a hundred patient samples in about 20 minutes,” Fast says, something it would take a human researcher four days to accomplish. They are rewarded when they identify a sample already identified as positive. But if the rat alerts to a sample already thought to be negative, it’s sent on to be evaluated using a more expensive test.
+According to APOPO, since the program’s inception, the rats have detected more than 23,000 cases missed by local health clinics.
+“That they've increased case detection by around 50 percent over partnering health clinics,” says Fast, clearly proud of the furry diagnosticians.
+Getting a bee on a COVID test
+As if honeybees haven’t done enough for us, Dutch researchers have shown that the bees are good at scenting out SARS-CoV-2, the virus that causes COVID-19.
+Like ants, honeybees smell with their antennae and are exquisitely sensitive to scents. Scientists with the Wageningen Bioveterinary Research laboratory in the Netherlands took local bees and put them in special “bee-holders,” plastic boxes with room for wing and body movement, with just their heads sticking out. They were given scents from various samples and awarded with a sugary treat when they rolled out their tongues in response to COVID-positive materials. In time, they would perform this action without being rewarded.  
+Like the ants, they could be trained in a matter of minutes, and can check a test in just seconds.
+What exactly the bees are smelling in SARS-CoV-2 infected samples is as yet unknown. The researchers suggested bees could be helpful in remote communities where traditional testing could be difficult.
+An intelligent worm 
+Smaller still than a honeybee is the nematode Caenorhabditis elegans, a worm-like creature approximately the size of a sand grain that is commonly used in lab research. It has disease genes that are very much like our own, making it a valuable model organism for scientific study. It’s also transparent, so its biological processes are easily visible under a microscope.
+The organism has also been shown to have cancer-detecting abilities. One Japanese study showed it can detect pancreatic cancer cells and an Italian study revealed it could recognize breast cancer cells. 
+In both cases the worms in some circumstances would move towards samples with the cancer cells and avoiding the healthy ones. A Japanese biotech firm is offering an early-detection cancer test, N-Nose, in which members of the public can send in a urine sample and have it tested by the worms.]]></text>
+</doc>

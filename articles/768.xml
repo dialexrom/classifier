@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<doc>
+	<url auto="true" type="str" verify="true"><![CDATA[https://www.nationalgeographic.com/travel/article/photos-national-parks-during-winter-snow]]></url>
+	<categories theme="travel" auto="true" type="list" verify="true">
+		<item type="str"><![CDATA[TRAVEL]]></item>
+	</categories>
+	<author auto="true" type="str" verify="true"><![CDATA[LANE NIESET]]></author>
+	<title auto="true" type="str" verify="true"><![CDATA[Discover the beauty of U.S. national parks in winter]]></title>
+	<publish_date auto="true" type="str" verify="true"><![CDATA[JANUARY 6, 2022]]></publish_date>
+	<editor_notes auto="true" type="str" verify="true"><![CDATA[Lane Nieset is a freelance journalist from Miami who currently calls Paris home. Follow her travels on Twitter.
+This story originally published on February 22, 2019. It has been updated.]]></editor_notes>
+	<text auto="true" type="str" verify="true"><![CDATA[Warm weather signals road-trip season, beckoning hikers and climbers to the canyons and cliffs dotting the country’s national parks. But you don’t have to wait for signs of spring wildflowers to venture through America’s backyard. Skip the crowds and hit the trails before the snow melts, admiring some of the most gorgeous winter scenery at these iconic national parks.]]></text>
+</doc>

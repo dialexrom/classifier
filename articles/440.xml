@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<doc>
+	<url auto="true" type="str" verify="true"><![CDATA[https://www.nationalgeographic.com/animals/article/how-to-pick-most-dolphin-safe-tuna
+]]></url>
+	<categories theme="animals" auto="true" type="list" verify="true">
+		<item type="str"><![CDATA[ANIMALS]]></item>
+		<item type="str"><![CDATA[WILDLIFE WATCH]]></item>
+	</categories>
+	<author auto="true" type="str" verify="true"><![CDATA[RENE EBERSOLE]]></author>
+	<title auto="true" type="str" verify="true"><![CDATA[How to pick the most ‘dolphin-safe’ tuna]]></title>
+	<publish_date auto="true" type="str" verify="true"><![CDATA[MARCH 10, 2021]]></publish_date>
+	<reading_time auto="true" type="str" verify="true"><![CDATA[• 3 MIN READ]]></reading_time>
+	<text auto="true" type="str" verify="true"><![CDATA[With so many marketing labels on cans of tuna, it can be confusing trying to decipher what’s inside—especially if you’re a conscientious shopper seeking the trifecta of environmentally friendly, sustainable, and socially responsible. Here’s what you need to know to make choices that prevent tuna stocks from being depleted and conserve marine life.
+Tuna species
+Most grocery aisles feature two main kinds of canned tuna: “chunk” or “solid” white, and “chunk light.”
+Solid white and chunk white tuna is albacore, which has a mild taste and steak-like texture. Found in tropical and warm temperate waters of the Pacific, Atlantic, and Indian Oceans, albacore tuna is listed as near threatened by the International Union for Conservation of Nature (IUCN) because of overfishing.
+Chunk light tuna (darker in color with a stronger flavor) is typically skipjack or yellowfin. Skipjack tuna are considered to be a more sustainable choice than yellowfin, which are experiencing some population declines.
+Fishing methods
+If you’re concerned about protecting dolphins, sea turtles, sharks, seabirds, and other marine life, pay close attention to how tuna was caught. Pole-caught, troll-caught, and pole-and-line caught tuna generally result in little bycatch. Tuna caught with longlines, purse seining, and fish aggregating devices (FADs), however, are more likely to be associated with the accidental trapping and killing of other animals.
+Eco-friendly labels
+A “dolphin safe” label advertises that the tuna was caught in compliance with U.S. laws and regulations to protect dolphins from fishing operations. Tuna companies use several dolphin-safe label variations, including the official Department of Commerce seal and Earth Island Institute’s logo. Earth Island Institute, a nonprofit conservation group, maintains the International Dolphin Safe Monitoring Program, scrutinizing 800 companies in 76 countries to ensure that tuna is caught without chasing or netting dolphins. The group has been criticized, however, as having a conflict of interest for receiving royalties from licensing its ecolabel to tuna companies.
+The MSC blue-and-white logo with a fish and a checkmark is the mark of the Marine Stewardship Council, a nonprofit that sets standards for sustainable fishing. Make Stewardship Count, a coalition of conservation groups and scientists, is calling for changes to MSC certification standards to uphold its scientific rigor, transparency, and promise to consumers and retailers that it is the “gold standard of sustainability.” Many environmental groups objected to MSC’s 2017 sustainable certification of Mexico’s tuna fishery, which continues to chase, net, and kill significant numbers of dolphins. MSC, like Earth Island Institute, receives royalties from licensing its ecolabel.
+Read more: How dolphin-safe is your tuna, really?]]></text>
+</doc>

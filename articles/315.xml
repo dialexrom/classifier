@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<doc>
+	<url auto="true" type="str" verify="true"><![CDATA[https://www.nationalgeographic.com/magazine/article/inspiring-the-next-generation-of-scientists-of-color
+]]></url>
+	<categories theme="animals" auto="true" type="list" verify="true">
+		<item type="str"><![CDATA[MAGAZINE]]></item>
+		<item type="str"><![CDATA[INNOVATOR]]></item>
+	</categories>
+	<author auto="true" type="str" verify="true"><![CDATA[ANNIE ROTH]]></author>
+	<title auto="true" type="str" verify="true"><![CDATA[Inspiring the next generation of scientists of color]]></title>
+	<publish_date auto="true" type="str" verify="true"><![CDATA[AUGUST 12, 2021]]></publish_date>
+	<reading_time auto="true" type="str" verify="true"><![CDATA[• 2 MIN READ]]></reading_time>
+	<editor_notes auto="true" type="str" verify="true"><![CDATA[The National Geographic Society funds Wynn-Grant’s work. Learn more about its support of explorers protecting critical species at natgeo.com/impact.
+This story appears in the September 2021 issue of National Geographic magazine.]]></editor_notes>
+	<text auto="true" type="str" verify="true"><![CDATA[Rae Wynn-Grant wants people to know that bears aren’t bad news. The National Geographic Explorer focuses on ways to eliminate negative interactions between these charismatic carnivores and the humans living near bear habitat. Translating painstakingly collected data, she brings communities information about where bears are, where they’re traveling, and how locals can protect themselves.
+In her work as a wildlife ecologist, she has also tracked lions across Tanzania and monitored ring-tailed lemurs in Madagascar. As her career progressed, Wynn-Grant, who is based in Santa Barbara, California, has grown stronger in her advocacy for the necessity of diversity in nature—and in the sciences. (Why combining diversity with STEM is a good thing for kids)
+She was the lone Black person among her academic peers when she started studying wildlife ecology. The lack of diversity became only more obvious as she advanced in her field.
+But she’s found that her success has inspired a new generation of aspiring ecologists of color. “I feel so much more hopeful about the future,” she says, “the future of wildlife, the future of the environment, the future of equity and justice and opportunity—because I’m seeing more people of color showing up in these spaces where I used to be the only one.”]]></text>
+</doc>

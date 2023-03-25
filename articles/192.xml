@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<doc>
+	<url auto="true" type="str" verify="true"><![CDATA[https://www.nationalgeographic.com/animals/article/first-potential-case-of-deer-to-human-covid-transmission-found
+]]></url>
+	<categories theme="animals" auto="true" type="list" verify="true">
+		<item type="str"><![CDATA[ANIMALS]]></item>
+		<item type="str"><![CDATA[CORONAVIRUS COVERAGE]]></item>
+	</categories>
+	<author auto="true" type="str" verify="true"><![CDATA[DINA FINE MARON]]></author>
+	<title auto="true" type="str" verify="true"><![CDATA[A deer may have passed COVID-19 to a person, study suggests]]></title>
+	<publish_date auto="true" type="str" verify="true"><![CDATA[MARCH 4, 2022]]></publish_date>
+	<reading_time auto="true" type="str" verify="true"><![CDATA[• 6 MIN READ]]></reading_time>
+	<text auto="true" type="str" verify="true"><![CDATA[A white-tailed deer in Canada likely infected a human with coronavirus, according to new research. The case, reported in a preprint journal, would be the first known instance of a COVID-19 spillover from a white-tailed deer—a common species throughout North America—into another species.
+Previous work has shown that the virus is circulating widely in U.S. white-tailed deer populations. Before this latest report, however, the virus appeared to be very similar to that found in nearby humans, suggesting that the deer likely were sickened by us—not the other way around.
+Now, a team of 32 government and academic researchers in Canada has concluded in a new work posted in BioRxiv that in late 2021, more than a dozen white-tailed deer in Canada had been infected with coronavirus that had a constellation of “mutations that had not been previously observed among SARS-CoV-2 lineages.”
+What’s more, further analysis revealed that a person who had close contact with white-tailed deer in Ontario was infected with the same variant of coronavirus. (It was detected as part of Canada’s standard genomic sampling of all COVID-19 cases in the area at the time.)
+Together, those factors suggest that the virus had been circulating among deer and accumulated mutations as it hopped from one animal to the next, before ultimately being passed to a person. It’s possible the virus was transmitted first through another host species, such as a mink, though the genomic analysis suggests that direct transmission from deer to human is “the most likely scenario,” the authors write.
+The preliminary research, which has not yet been peer-reviewed, is not a cause for alarm, experts say.
+The chances of transmitting coronavirus between people remains much higher than contracting the virus from a deer, says Jüergen Richt, a veterinarian and director of the Center on Emerging and Zoonotic Infectious Diseases at Kansas State University, who was not involved with the work. 
+Deer nose swabs
+For the research, scientists took nose and tissue samples from 300 dead white-tailed deer in southwestern and eastern Ontario between November and December 2021. All the animals had been killed by hunters and were already being tested as part of an annual surveillance program for chronic wasting disease, which kills deer and their relatives. A few samples tested weren't usable, but the researchers found that 17 of 298 deer—6 percent of the animals—tested positive for a “new and highly divergent lineage” of the coronavirus.
+Their results also showed that the variant is an older version of COVID, one that predated Delta and Omicron, suggesting that coronavirus has been circulating among deer for a long time.
+After discovering the coronavirus cases, the study authors analyzed whether the deer virus would likely be able to evade an existing COVID vaccine and concluded it would likely still provide robust coverage.
+That’s good news, says Richt, who agrees that deer-to-human infection appears to be the most likely explanation for the human case in Ontario.
+But he notes that there likely are other virus variants in people and animals that haven’t yet been recorded, possibly making the picture more complex than we realize.
+“As a scientist, you always have to discuss what else could be happening if you aren’t 100 percent sure,” he says.
+It remains unknown if there are other human cases of the Ontario deer-related virus or if there have been other spillover events from deer to people, the Canadian team emphasizes.
+“The emergence of Omicron and the end of deer-hunting season has meant both human and [white-tailed deer] testing and genomic surveillance in this region has been limited since these samples were collected,” they wrote in the paper.
+Mink and hamster cases
+During the pandemic, there have been documented cases of humans sickened with COVID from farmed mink and also an incident in which a Hong Kong pet shop employee contracted the virus from a hamster—leading to the killing of the hamsters in that shop and the city government’s request for owners of recently acquired pet hamsters to surrender them to be euthanized. In contrast to those isolated instances with domestic animals, it’s far more challenging to control—as well as detect—transmission between white-tailed deer and humans, the researchers note.
+Exactly how deer may have acquired coronavirus remains unknown too. As National Geographic reported in August 2021, deer may be in contact with people for research, conservation efforts, tourism, and hunting.
+At the time, U.S. Department of Agriculture researchers theorized that deer could have encountered the virus through contaminated wastewater or from exposure to other infected species, such as mink. 
+The USDA did not respond to a request for comment for this article.
+COVID antibodies were first detected by USDA researchers in 40 percent of tested white-tailed deer in Michigan, Illinois, New York, and Pennsylvania early in 2021. That work suggested that the animals had encountered the virus, but none of the deer appeared symptomatic. In Iowa, among other states, later studies detected COVID virus in deer. Richt says it’s now plausible that the virus is “circulating widely” in the animals  in the U.S.
+Boosting surveillance of humans and animal populations, especially deer, is of “particular importance” the Canadian team writes. 
+“At this time, there is no evidence of recurrent deer-to-human or sustained human-to- human transmission” of the virus found in deer and one person in Ontario, they wrote.
+But identifying reservoir hosts capable of driving sustained transmission of the virus or passing it from one species to the next, they say, is essential.
+“I think this is going to be a landmark study,” says Tracey McNamara, a veterinary pathologist at Western University of Health Sciences, in Pomona, California. She hopes “this will be the future of biosurveillance, where we will have to look across the spectrum of the animal kingdom—not just humans in isolation, not just animals in isolation, but doing that work jointly—which is what this group did, and that was pretty remarkable.”]]></text>
+</doc>

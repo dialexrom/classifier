@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<doc>
+	<url auto="true" type="str" verify="true"><![CDATA[https://www.nationalgeographic.com/magazine/article/these-12-tools-help-solve-avian-mysteries
+]]></url>
+	<categories theme="animals" auto="true" type="list" verify="true"/>
+	<author auto="true" type="str" verify="true"><![CDATA[HICKS WOGAN]]></author>
+	<title auto="true" type="str" verify="true"><![CDATA[These 12 tools help solve avian mysteries]]></title>
+	<publish_date auto="true" type="str" verify="true"><![CDATA[OCTOBER 5, 2021]]></publish_date>
+	<reading_time auto="true" type="str" verify="true"><![CDATA[• 2 MIN READ]]></reading_time>
+	<editor_notes auto="true" type="str" verify="true"><![CDATA[This story appears in the November 2021 issue of National Geographic magazine.]]></editor_notes>
+	<text auto="true" type="str" verify="true"><![CDATA[For more than 20 years Carla Dove has run the Feather Identification Lab at the Smithsonian’s National Museum of Natural History in Washington, D.C. Her team of forensic ornithologists receives more than 10,000 avian remains a year from aircraft collisions—bird strikes—and matches them to specimens in the museum’s collections, using morphology and DNA analysis. An example: After the “Miracle on the Hudson” emergency landing in 2009, Dove’s lab ID’d the birds involved as Canada geese. By knowing what species are struck most, airfield staff can deter birds and reduce the number of damaging strikes.]]></text>
+</doc>

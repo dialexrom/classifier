@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<doc>
+	<url auto="true" type="str" verify="true"><![CDATA[https://www.nationalgeographic.com/animals/article/animal-blood-comes-in-a-rainbow-of-colors
+]]></url>
+	<categories theme="animals" auto="true" type="list" verify="true">
+		<item type="str"><![CDATA[ANIMALS]]></item>
+	</categories>
+	<author auto="true" type="str" verify="true"><![CDATA[LIZ LANGLEY]]></author>
+	<title auto="true" type="str" verify="true"><![CDATA[Animal blood comes in a rainbow of colors—here’s why]]></title>
+	<publish_date auto="true" type="str" verify="true"><![CDATA[FEBRUARY 28, 2022]]></publish_date>
+	<reading_time auto="true" type="str" verify="true"><![CDATA[• 8 MIN READ]]></reading_time>
+	<text auto="true" type="str" verify="true"><![CDATA[Whether it’s a tiny snail or a massive whale, most living organisms rely on blood flowing through their bodies to stay alive.
+This precious fluid fights infection, delivers nutrients and gases to organs, and ferries away waste products. But what many of us picture as blood—red and full of iron, for instance—differs depending on the species.
+For instance, some crustaceans, squid, and octopuses have blue blood due to the oxygen-transporting protein hemocyanin, which contains copper, says Stephen Palumbi, a marine biologist at Stanford University. (Think Star Trek’s green-blooded Vulcans, Palumbi quips.) In marine animals, hemocyanin is colorless, but turns blue when it binds with oxygen.
+In humans, the protein hemoglobin carries oxygen. “Hemocyanin is just a different way to move oxygen around,” Palumbi says by email. “There are lots of times that evolution invents different things for the same purpose.”
+Hemocyanin, which evolved nearly 2.5 billion years ago, originally served to detoxify oxygen for primordial organisms in Earth’s anaerobic, or low-oxygen, environment, says Christopher Coates, a comparative immunologist at Swansea University in Wales. Later, when the atmosphere became more oxygen-rich, the protein evolved again to deliver oxygen throughout an organism’s body.
+Hemoglobin evolved much later, possibly about 400 million years ago. Coates says it likely came about because vertebrates have more complex respiratory systems than do simple organisms. Indeed, most mammal, fish, reptile, amphibian, and bird blood is red because of hemoglobin, whose protein is made of hemes, or iron-containing molecules that fuse with oxygen.
+Hemerhythrin is another iron-containing pigment that attaches to oxygen molecules and gives a purple-pink hue to the blood of some mollusks, such as lamp shells and sea squirts.
+Then there’s the Antarctic icefish, which has no blood pigment at all thanks to a genetic mutation that removed hemoglobin from their bodies. In the fish’s frigid southern habitat, oxygen is plentiful, and the gas seeps in directly through the fish’s gills and skin.
+Insects don’t have blood, instead possessing a comparable fluid called hemolymph, which transports hormones and gases through their system, except for oxygen—they absorb that directly through openings along their sides or back.
+“It’s like they have a line of nostrils down the side of their body,” says Julie Peterson, an entomologist at the University of Nebraska-Lincoln. Hemolymph can have yellowish or bluish-green pigments that come from the insects’ plant diets.
+Blood as weaponry
+Some animals can use their blood in a theatrical defense mechanism called reflex bleeding or autohemorrhaging, in which they start bleeding heavily to ward off predators.
+Horned lizards of the southwestern U.S. and Mexico shoot arcs of blood out of their eyes when they feel threatened by a predator, such as a coyote. The offender gets a yucky surprise, while the lizard lives to squirt another day.
+Some insects, such as the multicolored Asian lady beetle, have “very noxious, icky, distasteful, smelly liquid” that mixes with their hemolymph, Peterson says. They’ll gush this cocktail out of their eyes or leg joints when disturbed. (See more animals with stinky defenses.)
+A relative of theirs, the aptly named bloody-nosed beetle, spews red hemolymph, which looks like blood, from its mouth for the same purpose.
+To avoid parasites, prehensile green tree skinks of New Guinea may have what amounts to dirty blood. A constant buildup of a bile pigment called biliverdin, the waste product of broken-down red blood cells, causes the reptiles’ blood, bones, mouths, tongues, and other body parts to be lime green.
+In other animals, the liver would process the extra biliverdin “like the oil filter in your car,” removing impurities so the engine runs well, says Chris Austin, director of the Louisiana State University Museum of Natural Science, who discovered biliverdin as the cause of the skink’s green blood.
+If a person had a similar amount of biliverdin, it could be fatal. So “why are these lizards not jaundiced and dead?” Austin asks. He theorizes their bodies evolved ways to cope with the biliverdin as a strategy to kill off blood parasites—specifically those that cause malaria.
+Bloodless creatures
+Some animals don’t have blood or circulatory systems because they simply don’t need them.
+Flatworms, for example, lack a circulatory system; gas exchange occurs directly through their skin. Oxygen goes right to their tissues, while nutrients are supplied by diffusing from the gut.
+Jellyfish and sponges also get oxygen via diffusion. For sea stars and sea cucumbers, water is a blood equivalent, moving nutrients and gases through their systems via a water-based vascular system. (Read why animals developed four types of skeletons.)
+Blood types
+Humans have eight blood types, but we aren’t the only animals that have this heritable trait, says Jethro Forbes, critical care specialist at Cornell University College of Veterinary Medicine, says by email.
+Wild animals likely also have blood types, though domestic species are the most well studied. Cats have three blood types, chickens have up to 28, and domestic ferrets “do not seem to have different blood types,” Forbes says. (Read about a chicken with black bones, organs, and meat.)
+Why the disparity? It’s likely because domestic ferrets are extremely inbred, with little genetic diversity, while there are dozens of chicken breeds, and thus more varied blood types.
+Helpful blood
+In some cases, animal blood has useful applications for human health. The milky-blue, hemocyanin-rich blood of Atlantic horseshoe crabs, for instance, clots when it comes in contact with bacterial toxins. This makes it a valuable tool for ensuring medical drugs or products—particularly vaccines—are safe and free from contaminants.
+However, the process of collecting and bleeding the crabs—up to half a million annually—can kill them, and it’s caused the species’ numbers to drop in the U.S. mid-Atlantic region in recent years. That’s why scientists are working to find synthetic alternatives that would reduce the need for catching wild animals.]]></text>
+</doc>

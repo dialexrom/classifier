@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<doc>
+	<url auto="true" type="str" verify="true"><![CDATA[https://www.nationalgeographic.com/travel/article/paid-content-hungary-photos]]></url>
+	<categories theme="travel" auto="true" type="list" verify="true">
+		<item type="str"><![CDATA[TRAVEL]]></item>
+	</categories>
+	<author auto="true" type="str" verify="true"><![CDATA[STEPHEN ALVAREZ]]></author>
+	<title auto="true" type="str" verify="true"><![CDATA[20 beautiful photos of Hungary to inspire your next trip]]></title>
+	<editor_notes auto="true" type="str" verify="true"><![CDATA[This is Paid Content for Visit Hungary. The editorial staff of National Geographic was not involved in the preparation or production of this content.]]></editor_notes>
+	<text auto="true" type="str" verify="true"><![CDATA[With its beautiful countryside, burgeoning gastronomic scene and natural thermal baths, a trip across Hungary proves there is more to offer every traveler than just the delights of Budapest.
+At National Geographic, we want to inspire your next adventure but only when it is safe and advised to do so. Before you travel, check local and national Government guidelines for Covid-19.]]></text>
+</doc>

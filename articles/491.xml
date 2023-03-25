@@ -1,0 +1,29 @@
+<?xml version="1.0" ?>
+<doc>
+	<url auto="true" type="str" verify="true"><![CDATA[https://www.nationalgeographic.com/animals/article/wild-mink-tests-positive-coronavirus-utah
+]]></url>
+	<categories theme="animals" auto="true" type="list" verify="true">
+		<item type="str"><![CDATA[ANIMALS]]></item>
+		<item type="str"><![CDATA[CORONAVIRUS COVERAGE]]></item>
+	</categories>
+	<author auto="true" type="str" verify="true"><![CDATA[DINA FINE MARON]]></author>
+	<title auto="true" type="str" verify="true"><![CDATA[First case of the coronavirus detected in the wild]]></title>
+	<publish_date auto="true" type="str" verify="true"><![CDATA[DECEMBER 15, 2020]]></publish_date>
+	<reading_time auto="true" type="str" verify="true"><![CDATA[• 4 MIN READ]]></reading_time>
+	<text auto="true" type="str" verify="true"><![CDATA[The first known case of the novel coronavirus in a non-captive wild animal has now been confirmed, according to an alert issued by the United States Department of Agriculture. A wild mink in Utah tested positive during screening of wildlife around fur farms with outbreaks, it says.
+The strain of the virus in the wild mink is “indistinguishable” from that in infected mink on farms around the state, according to the National Veterinary Services Laboratory, the USDA division that conducted the tests.
+In the U.S., coronavirus outbreaks have been documented at 16 mink farms in Utah, Wisconsin, Oregon, and Michigan, with the most cases in Utah. But until now, no wild mink cases had been detected, despite ongoing testing of mink, raccoons, skunks, and other animals around farms with infections.
+This mink was trapped in the “immediate vicinity of one of the affected farms,” says Utah state veterinarian Dean Taylor, and was the only animal caught in the area to test positive.
+“There is currently no evidence that SARS-CoV-2 is circulating or has been established in wild populations surrounding the infected mink farms,” the USDA’s Animal and Plant Health Inspection Service (APHIS) wrote in its alert, using the official name for the virus.
+The virus has also been found in a number of captive wild animals, including lions, tigers, and snow leopards, as well as in domestic dogs and cats. Scientists have been racing to determine what other animals may be susceptible, paying particular attention to endangered species and those that may be able to pass it back to humans. Until now, however, no animals in the wild have been found to have it.
+“Outbreaks at mink farms in Europe and other areas have shown captive mink to be susceptible to SARS-CoV-2, and it is not unexpected that wild mink would also be susceptible to the virus,” says USDA spokesperson Lyndsay Cole. “This finding demonstrates both the importance of continuing surveillance around infected mink farms and of taking measures to prevent the spread of the virus to wildlife.”
+It’s unclear how the wild mink may have come into contact with infected mink on a fur farm.
+The USDA says further efforts to prevent spread within the large North American wild mink population are warranted, though it has not announced a strategy for doing so.
+Mink around the world
+Last week, Canada reported its first farmed mink outbreak, in Fraser Valley, British Columbia. And since this spring, millions of farmed mink have been killed to control the virus’s spread across Europe, including in Denmark, the continent’s largest mink pelt producer.
+The Netherlands recently announced that it has completed culling its four million mink and shut down its mink industry permanently. Spain and Greece also culled more than 100,000 of the animals at its infected farms. In those cases, country officials said the mink are believed to have been sickened by farm workers.
+Yet the disease has not always spread only from infected farm workers to mink. In Denmark, mink also sickened farm workers, according to genomic analysis. The virus strain circulating among those animals metastasized into the community: More than 200 human cases of the virus were linked to the farmed mink, including 12 with a unique variant of the virus that Danish officials worried could compromise future vaccine effectiveness.
+That variant had what the World Health Organization described as “moderately decreased sensitivity to neutralizing antibodies.” As a result, Denmark decided to cull its entire mink stock: more than 15 million mink.
+“Fur farms in the U.S. follow strict biosecurity protocols for the benefit of both humans and animals,” says Mike Brown, a spokesperson for the International Fur Federation, who noted that the group is working to get more details from the USDA about this wild case. He says that the Fur Commission USA, the United States’ primary fur trade organization, is also working with the industry to develop a coronavirus vaccine for mink, which is not yet ready to be tested.
+Dean Taylor, Utah’s state veterinarian, says that advice for people worried about their pets remains unchanged. "Treat them the same as people," he says. Try to keep them on your property, when possible, and "distance with them in your own homes if someone is sick in the household."]]></text>
+</doc>

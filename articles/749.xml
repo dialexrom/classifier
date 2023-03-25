@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<doc>
+	<url auto="true" type="str" verify="true"><![CDATA[https://www.nationalgeographic.com/travel/article/new-tools-offer-peace-of-mind-for-pandemic-travel]]></url>
+	<categories theme="travel" auto="true" type="list" verify="true">
+		<item type="str"><![CDATA[TRAVEL]]></item>
+		<item type="str"><![CDATA[CORONAVIRUS COVERAGE]]></item>
+	</categories>
+	<author auto="true" type="str" verify="true"><![CDATA[JACKIE SNOW]]></author>
+	<title auto="true" type="str" verify="true"><![CDATA[New tools offer peace of mind for pandemic travel]]></title>
+	<publish_date auto="true" type="str" verify="true"><![CDATA[JANUARY 27, 2022]]></publish_date>
+	<reading_time auto="true" type="str" verify="true"><![CDATA[• 8 MIN READ]]></reading_time>
+	<editor_notes auto="true" type="str" verify="true"><![CDATA[Jackie Snow is a Washington, D.C.-based writer specializing in travel and technology. Follow her on Instagram.]]></editor_notes>
+	<text auto="true" type="str" verify="true"><![CDATA[Omicron brought a slowly recovering travel industry to its knees this holiday season. Thousands of airline workers stayed home after catching the coronavirus variant, and between Christmas Eve 2021 and January 2, 2022, some 14,000 flights were canceled. Thousands of travelers were stranded or tested positive and found themselves quarantined abroad.
+With 210 million people fully vaccinated in the United States and Omicron showing signs of peaking in some regions, an estimated 80 percent of American travelers are planning trips in the coming year. Yet they still need to assess the risk at their destinations and navigate the complexities of COVID-19 safety requirements for travel.
+Some of the most essential travel advice remains the same: Strengthen your vaccine with an appropriate booster, wear a good mask when indoors, prioritize outdoor activities when possible, and social distance to bolster all these defenses.
+Unlike early in the pandemic, now there are many resources to help with every stage of a trip, from calculators that assess your risk before travel to easy-to-get COVID-19 tests. In worst-case scenarios, travelers can better plan for cancellations, quarantining, and health care abroad. Here are some of the innovations that’ll make your next trip easier and—potentially—safer.
+Planning your trip
+Katelyn Jetelina, an epidemiologist with the University of Texas’s School of Public Health in Dallas, says travelers no longer need to live with the pandemic guessing games of 2020 and 2021. One of those tools is her weekday newsletter, where she presents facts and news about COVID-19 that can help readers assess risks or timing of trips at different destinations.
+The website microCOVID features an innovative risk calculator that has users enter data on where they are going, what they are doing, and who they are meeting with, and then generates a risk assessment. For instance, if you are traveling to Germany and planning to meet with two people indoors, the risk is “dangerously high,” even if you’re wearing a KN95 mask.
+Maps displaying COVID-19 information can help with travel decisions. While the U.S. is still averaging 744,000 new cases a day, and Europe is at 1.5 million, locations within states or continents will have varying risks. But summarizing a world of information is no simple task. 
+Amino Belyamani, a computer scientist and musician, was disappointed with the World Health Organization’s online COVID-19 map. “There wasn’t an easy way to find out how many cases there were per million or how many deaths per million,” he says. “It was always just raw data.”
+(Is a universal coronavirus vaccine on the horizon?)
+So he made his own COVID-19 World Map, which lets viewers toggle between cases, deaths, vaccine levels, and testing. Belyamani’s tool provides a visual perspective to present data in context relative to a country’s population. From his tracker, it’s easy to see Malta is the world’s most jabbed nation, with 99.7 percent of its population fully vaccinated.
+He says his tracker has helped friends and family make decisions on when and where to travel; he even used it himself to time his trip home to visit his parents in Morocco.
+“I wanted to go when it was on the low point of the curve, so I would have the freedom to hug my family and not worry about distancing,” Belyamani says.
+Documenting vaccinations and testing
+After deciding where to go, the next hurdle travelers face is the ever shifting array of entry requirements. Many arrival policies require proof of vaccination and, increasingly, boosters, as well. 
+Many countries also require a recent negative COVID-19 test for entry; travelers should check their destination’s embassy site for testing requirements. The rules about timing test validity can change quickly. Last month, for example, the U.S. mandated that all international travelers, regardless of nationality or vaccine status, show a negative test taken no more than one day before flying in; this new policy was shortened from three days as Omicron took hold. 
+(This is why kids under five still can’t get a COVID-19 vaccine.)
+While travelers had to scramble earlier in the pandemic to find a local pharmacy or hope that their hotel offered testing, there are now more options. 
+New services like eMed (in the U.S.) and Qured (in the U.K.) let travelers order rapid antigen tests before traveling and then schedule a televisit with a proctor who can oversee a nose swab. The results are ready and sent to a user within hours. Another testing option is Ellume, which is sold in stores like Target and CVS, and requires an additional payment for a virtual proctor to oversee a test acceptable for international travel. Some airlines, including Delta and Hawaiian Airlines, sell tests on their websites that can report results to a paired smartphone. 
+Travelers should bring a cache of rapid antigen tests for self-testing on their trip. Not only can they provide valuable information, but they can reduce concern and stress to those who fear they may have been exposed to the virus. Rapid antigen tests are less accurate than other testing protocols, but can offer results in as little as 15 minutes.
+These home tests have been selling out quickly in stores, but online sites stock many brands of FDA-approved tests. Some products have interesting features; BD Veritor, for example, allows users to report results directly to health authorities. Thanks to a new government program, U.S. households are eligible to receive four free rapid antigen tests.
+COVID-19 insurance
+Beyond testing and vaccination, more and more countries require travel insurance covering COVID-19 and associated disruptions, like quarantining or medical care. Because of these new requirements, travel insurance has seen a boost across the world.
+“Omicron added more anxiety to already anxious travelers,” says Rajeev Shrivastava, the CEO of VisitorsCoverage, a global travel insurance marketplace. “Visitors have a lot more research to do, even to the last moment when they are boarding a plane.”
+(Here’s how cruise lines are adapting to COVID-19 in the age of Omicron.)
+For cautious travelers, “cancel for any reason” policies were available before the pandemic, but chosen less frequently, often because of the cost. Now, according to Shrivastava, more people are asking about these policies when buying travel insurance to protect from any coronavirus-caused cancellations. Policies that cover quarantining expenses (hotel stays, food delivery, additional tests) are also popular, although there are currently few options.
+For travelers worried about getting sick and stranded abroad, Covac Global offers evacuation and repatriation. Started in 2020, it provides private medical evacuations if a client tests positive for coronavirus and exhibits at least one symptom.
+As COVID-19 edges toward an endemic illness, companies will develop additional solutions to ease some of these travel bumps. “It feels like it’s been forever,” says Alice Jong, director of research at Phocuswright, a travel analysis firm. “But it’s only been two years to implement all these changes.”]]></text>
+</doc>

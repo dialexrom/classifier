@@ -1,0 +1,53 @@
+<?xml version="1.0" ?>
+<doc>
+	<url auto="true" type="str" verify="true"><![CDATA[https://www.nationalgeographic.com/animals/article/more-animal-species-are-getting-covid-19-for-the-first-time
+]]></url>
+	<categories theme="animals" auto="true" type="list" verify="true">
+		<item type="str"><![CDATA[ANIMALS]]></item>
+		<item type="str"><![CDATA[CORONAVIRUS COVERAGE]]></item>
+	</categories>
+	<author auto="true" type="str" verify="true"><![CDATA[NATASHA DALY]]></author>
+	<title auto="true" type="str" verify="true"><![CDATA[Hippos, hyenas, and other animals are contracting COVID-19]]></title>
+	<publish_date auto="true" type="str" verify="true"><![CDATA[DECEMBER 10, 2021]]></publish_date>
+	<reading_time auto="true" type="str" verify="true"><![CDATA[• 9 MIN READ]]></reading_time>
+	<text auto="true" type="str" verify="true"><![CDATA[Ngozi and Kibo, ages 22 and 23, developed a cough, lethargy, and runny noses at home in Colorado in November. Soon it was determined that their run-of-the-mill symptoms were signs of a global first: These Denver Zoo residents became the first hyenas in the world known to be infected with COVID-19.
+The milestone, nearly 20 months into the pandemic, is part of a pattern in recent months. On October 6, a binturong (“bearcat”) and a fishing cat tested positive at Chicago Zoo, followed a week later by a coati. Two hippos at a zoo in Belgium fell victim on December 5. All were the first of their species to contract the virus.
+They’re now part of a group of 315 animals from 15 species in the United States confirmed to have SARS-CoV-2, the virus that causes COVID-19. The list also includes cats, dogs, tigers, lions, snow leopards, gorillas, otters, a cougar, a ferret, white-tailed deer. (Infected mink, nearly all on fur farms, are not included in the total).
+What do we know about which animals can get the virus? And what does it mean for them—and us?
+Are certain animals more susceptible?
+These cases have affected mainly carnivorans. (Carnivorans belong to an order of mammals that includes wild and domestic cats, dogs and wolves, bears, and more. Carnivore is a generic term for any animal that primarily eats meat. Sharks, for example, are carnivores but not carnivorans).
+The hyenas, the binturong, the coati, and the fishing cat are all carnivorans, as are domestic and big cats, which have been testing positive since early in the pandemic.
+This doesn’t necessarily mean carnivorans are more susceptible—there aren’t enough data to judge yet, says Elizabeth Lennon, a veterinarian at the University of Pennsylvania’s School of Veterinary Medicine.
+It’s a different story with big cats, however. Ninety have tested positive in the U.S., according to the U.S. Department of Agriculture (USDA). “I think that if you look at the big picture in all of the zoos, you can confidently say there is some increased susceptibility to clinical disease in large felids,” Lennon says.
+Some species are more susceptible to certain variants.
+Take mice. They evaded the original SARS-CoV-2 virus, but we know they can be infected with the beta variant.
+As variants emerge in humans, the virus could be expanding its host range—mutating to infect more species and potentially circulating “silently” among them, creating a new reservoir, says Diego Diel, associate professor and director of the virology laboratory at Cornell University’s College of Veterinary Medicine.
+But the opposite is also true: It’s possible that new variants would be harmless to certain species, Diel says, because “as the virus becomes more effective in transmitting between humans, it may become less effective in moving between animals.”
+As of now, there’s no evidence that with the exception of mink, any species, including pets, can transmit the virus to humans, or that variants have emerged after mutating in another species.
+Most animals don’t seem to get seriously ill from COVID-19. 
+The majority of animals in the U.S.—including Ngozi and Kibo, the hyenas—have had only mild symptoms and made full recoveries.
+The most serious cases have occurred in snow leopards and mink. At Lincoln Children’s Zoo, in Nebraska, three snow leopards died in November from complications from COVID-19. It’s unclear if they had underlying conditions. And thousands of mink have died at 17 fur farms in Utah and other states. Millions more have been euthanized on farms in Denmark and the Netherlands.
+Buddy, the first dog to be confirmed positive for COVID-19 in the U.S., died in July, but he likely had lymphoma, which experts say may have played a role.
+Studying COVID-19 in animals matters.
+“As soon as you have more than one species that can maintain and transmit a virus, that has significant implications in control strategies and prevention strategies as well,” Diel says. It’s therefore crucial to find out whether any species could become a reservoir for the virus.
+“Animals pose different and unknown risks,” Lennon says. “It’s certainly important that surveillance in many different species continues, because the virus is so widespread,” which increases exposure and transmissibility.
+Testing skews toward animals that have shown signs of illness. 
+The number of animal infections in the U.S. probably exceeds the 315 recorded cases, Diel says. If animals don’t show symptoms, it’s unlikely they’ll be tested, and that makes it difficult to learn about potential silent spreaders—animals that may contract the virus and pass it on without ever exhibiting symptoms.
+The white-tailed deer is one species scientists are monitoring closely. This year, a study analyzing blood from more than 600 deer in four U.S. states found antibodies to the coronavirus in nearly 40 percent of the samples. Last month, COVID-19 was detected in three deer in Quebec, Canada. None of the animals seemed sick.
+There’s no evidence that deer can pass the virus to humans or other species. But the specter of a silent reservoir gives scientists pause. “That’s why everyone’s been so concerned about these deer studies,” Lennon says. If a virus quietly spreads and even mutates in a large animal population, “it’s much harder to control and eradicate.”
+The overwhelming majority of zoo animal cases in the U.S. have been reported by accredited facilities that have strict health protocols. 
+Bronx Zoo, where the first tigers and lions tested positive in April 2020, San Diego Zoo Safari Park, where the first gorilla tested positive in January 2021, and Lincoln Children’s Zoo, home to the three snow leopards who died, are all members of the Association of Zoos and Aquariums (AZA), a U.S. nonprofit that sets standards for animal care and safety.
+The AZA’s more stringent veterinary protocols mean that caregivers are more likely to detect illness in their animals and to conduct testing, says Dan Ashe, president of the AZA. “They’re constantly monitoring the animals,” he says. “If something doesn’t seem right, they are asking the questions.”
+Standard practices during the pandemic include wearing personal protective equipment and minimizing close contact with animals, according to veterinarians at several AZA-accredited zoos with positive cases. “Our members have taken a lot of measures to provide protection, and we’re still seeing infections,” Ashe says. “So it’s hard to believe it’s not happening at other facilities where contact is much more—shall we say—liberal.”
+We have no idea what might be happening at “roadside” zoos that offer visitors hands-on interactions with animals.
+Many roadside zoos, such as those featured in Netflix’s Tiger King, offer hands-on contact with animals, especially lion and tiger cubs—species known to be susceptible to the virus. These zoos must be licensed by the USDA to exhibit animals but are not accredited by the AZA, which doesn’t allow contact between big cats and the public. (Read about Tiger King fans who waited in an hours-long line to have the chance to pet tiger cubs during the height of the pandemic.) 
+The care standards set by the USDA fall well below those of the AZA, and roadside zoos are notorious for lax veterinary care and safety protocols. It’s unclear whether any big cats at roadside zoos or cub-petting facilities have been tested for the virus or have died from it.
+“I think the risk is higher” at roadside zoos, Diel says. “A requirement for transmission is close contact, and in every situation where you … broaden the number of people that have contact with animals, that increases the risk.”
+We need more data, and we need to keep studying.
+Although COVID-19 is primarily a human disease, Lennon says, the growing number of species known to be susceptible to the virus should be a call to action. “We need to be doing a lot of surveillance in different species and in new variants” such as Omicron, she says. “This virus from the get-go has surprised everyone at every turn … We can’t let our guard down at any point, as we keep learning over and over.”
+How you can help 
+If you’re positive for COVID-19, isolate yourself from your pets, just as you would from other humans. If your pet seems sick, call your veterinarian.
+Refrain from touching or getting close to big cats at petting zoos to prevent spread of the virus. We know that tigers and lions are susceptible to COVID-19. (And cub petting poses other risks to animals as well.)
+Get vaccinated if you aren’t already. Vaccination is proven to reduce the spread of COVID-19, protecting humans and animals.
+]]></text>
+</doc>

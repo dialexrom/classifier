@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<doc>
+	<url auto="true" type="str" verify="true"><![CDATA[https://www.nationalgeographic.com/travel/article/where-to-find-an-island-with-a-thousand-orchids]]></url>
+	<categories theme="travel" auto="true" type="list" verify="true">
+		<item type="str"><![CDATA[MAGAZINE]]></item>
+	</categories>
+	<author auto="true" type="str" verify="true"><![CDATA[KATIE KNOROVSKY]]></author>
+	<title auto="true" type="str" verify="true"><![CDATA[Where to find an island with a thousand orchids]]></title>
+	<publish_date auto="true" type="str" verify="true"><![CDATA[JUNE 7, 2022]]></publish_date>
+	<editor_notes auto="true" type="str" verify="true"><![CDATA[This story appears in the July 2022 issue of National Geographic magazine.
+
+Learn more about the National Geographic Society’s support of Explorers’ work protecting critical species at natgeo.com/impact.]]></editor_notes>
+	<text auto="true" type="str" verify="true"><![CDATA[From the showstopper Cymbidiella pardalina, with its operatic scarlet lip, to the thumbnail-size yellow Angraecum rhynchoglossum, about a thousand species of orchids call Madagascar home. Known for their delicate details, these flowers exhibit remarkable resistance to wildfire and the severe drought now plaguing this biodiverse Indian Ocean island. Orchids with underground tubers act as survival powerhouses, says Jeannie Raharimampionona, a Malagasy botanist, conservationist, and National Geographic Explorer. In her 22 years of award-winning work in defense of island flora, she has helped create a dozen refuges to protect plant species from deforestation and habitat loss. What continues to motivate her is the astonishing rate of flora discovery here. Even just “as a traveler, you could see an orchid that is new for science,” she says.]]></text>
+</doc>

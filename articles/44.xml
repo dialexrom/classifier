@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<doc>
+	<url auto="true" type="str" verify="true"><![CDATA[https://www.nationalgeographic.com/animals/article/reindeer-eyes-color-change-season-uv
+]]></url>
+	<categories theme="animals" auto="true" type="list" verify="true">
+		<item type="str"><![CDATA[ANIMALS]]></item>
+	</categories>
+	<author auto="true" type="str" verify="true"><![CDATA[ALEJANDRA BORUNDA]]></author>
+	<title auto="true" type="str" verify="true"><![CDATA[What color are reindeer eyes? Depends on the season. ]]></title>
+	<publish_date auto="true" type="str" verify="true"><![CDATA[DECEMBER 20, 2022]]></publish_date>
+	<reading_time auto="true" type="str" verify="true"><![CDATA[• 6 MIN READ]]></reading_time>
+	<text auto="true" type="str" verify="true"><![CDATA[On Christmas Eve, a team of reindeer will crisscross the sky towing Santa and his present-laden sleigh.
+But Rudolph’s team won’t be the only reindeer doing something special. Back in the highest Arctic, their cousins will be performing an optical feat not observed elsewhere in the animal world: changing their eye structure to better find food and escape predators during the long, dark months of polar twilight.
+In the summer, reindeer’s tapetum lucidum—a mirror-like layer at the back of their eye—is a luminous gold streaked through with turquoise, iridescent like a golden opal. But in the winter, that layer turns a deep, rich blue.
+Scientists have spent years untangling the mystery of why and how they make the dramatic change, but it took an astrophysicist, a neuroscientist, and bags of reindeer eyes to disentangle the elegant optics. (See National Geographic's favorite reindeer pictures.)
+“What we’ve found is a really great biological mechanism that’s totally unique and bizarre—and makes perfect sense,” says Glen Jeffery, a neuroscientist at University College London and author of a recently published study explaining the phenomenon.
+Winter adaptation
+At 70 degrees north, near Tromsø in Norway or Utqiagvik (formerly Barrow) in Alaska, the sun doesn’t even cross the horizon for more than 60 days in winter, leaving reindeer drenched daily in 12 to 24 hours of deep twilight.
+“Even in winter, in the Yukon or northern Manitoba, you’ve got a day-night cycle. We don’t have that,” says Nicholas Tyler, a researcher at the Centre for Sami Studies, at the Arctic University of Norway in Tromsø. “That’s a really unique thing.”
+Winter twilight is at least 100,000 times fainter than is summer daylight. It’s also tinted a rich blue. That’s because when the sun is below the horizon, its rays cut upward through the atmosphere before being deflected down toward Earth; they travel through an exceptionally long pathway full of ozone. That ozone absorbs nearly all the orange and red light—leaving behind just the blue, which bounces down to Earth and drapes the landscape in ultramarine.
+“It’s like a filter arching across the sky,” says Fosbury, “which filters out the orange light and leaves the blue.”
+Plenty of animals deal with dim light. One common adaptation is the tapetum lucidum, which sits behind the light-absorbing retina. When living in near-darkness, every photon matters: Sometimes, one will cross into the eye but miss the retina’s little catchers’ mitts of light-absorbing pigments. The tapetum bounces that photon back outward, giving it another chance to be absorbed. For some nocturnal animals like cats, tapetum reflectance can more than double the light hitting photoreceptors, says Braidee Foote, a veterinary ophthalmologist at the University of Tennessee, Knoxville.
+Tapeta vary in color, but are often yellowish gold like a bronzed mirror or greenish, explains Foote—the tapetum is the reason cat or raccoon eye reflect eerily at night.
+So why do reindeer tapeta turn blue in winter? The answer probably has to do with maximizing light absorption in the blue and below-blue color range during the long, dark winter twilight.
+Humans perceive light from blue wavelengths of about 400 nanometers to the reddish 700-nanometer realm, but reindeer see well into the shorter ultraviolet (UV) range, which causes snow blindness in humans.
+That UV vision could help two ways, says Fosbury. First, it’s likely to help them find food in the snowy winter. Lichens, a staple of reindeer winter diet, absorb UV, so they show up dark against UV-reflecting white snow. Wolf and polar bear fur also absorb UV, so instead of disappearing against snow they pop out in high contrast, allowing reindeer to spot predators more easily. 
+It's likely other far-northern animals do something similar—but "we just haven't looked yet," says Nathaniel Dominy, an anthropologist at Dartmouth. 
+Eye-opening discovery
+The next question was tougher: How did reindeer change their eyes? That’s when the astrophysicist got involved.
+Fosbury puzzled through the optical conditions during Arctic twilight and found that the tapetum would “tune” itself to that frequency of light.
+He and Jeffery went into the lab to dissect and experiment on a vast supply of reindeer eyes—bags and jars of them, collected over years from reindeer herds owned by the Sami, a Scandinavian Indigenous people.
+Reindeer tapeta are made of little fibers of collagen suspended in fluid, forming a changeable reflective crystal. The collagen fibers in summer eyes floated loosely in the fluid, creating a crystalline mirror that best reflected reddish light. But in winter-collected eyes, the collagen fibers were packed much tighter, changing the crystal shape and making it reflect primarily blue light, with a smear into the nearby UV.
+In the darkness, reindeer likely dilate their pupils, which in turn blocks a little drainage hole for eye fluid, causing the eye’s internal pressure to build up, compressing the tapetum collagen and changing the crystals’ shape. In summer, the animals’ pupils return to normal.
+“You add these things up and the sensitivity of their eyes is at least a thousand times higher in winter than in summer,” says Tyler.
+But their unique adaptation may hurt them. Today, high-voltage power lines crisscross traditional Sami herding territory leaking bursts of UV light, which to reindeer looks “like fireworks; they won’t go near it,” says Jeffery—leading the Sami to engage in contentious court battles to protect their herds.]]></text>
+</doc>

@@ -1,0 +1,41 @@
+{% extends "layout.html" %}
+
+{% block content %}
+    {%for element in articles %}
+    <div class="alert alert-warning" style="padding-left:200px;padding-right:200px;margin-left:100px;margin-right:100px;" align="center">
+        <h3>{{element.title}}</h3>
+        <p>{{element.label}}</p>
+        <p>{{element.getOriginalAuthors}}</p>
+        <p>{{element.getAuthors}}</p>
+        <p>{{element.date}}</p>
+        <p>{{element.getCategories}}</p>
+        <p>{{element.getKeyWords}}</p>
+        <p>{{element.snippet}}</p>
+        <p>{{element.link}}</p>
+        <a href="text/{{element.id}}" class="btn">Open full</a>
+        <a href="remove/{{element.id}}" class="btn">Delete</a>
+    </div>
+    {% endfor %}
+    <nav style=" position: sticky; bottom: 0;">
+        <div class="pagination">
+            <span class="step-links">
+                {% if articles.has_previous %}
+                    {% if articles.number != 2 %}
+                        <a href="1" class="page">1</a>
+                    {% endif %}
+                    <a href="{{ articles.previous_page_number }}" class="page">{{ articles.previous_page_number }}</a>
+                {% endif %}
+                <span class="current">
+                    <a href="{{ articles.number }}" class="page" style="box-shadow: inset 0 0 0 1px; color:white;">{{ articles.number }}</a>
+                </span>
+                {% if articles.has_next %}
+                    <a href="{{ articles.next_page_number }}" class="page">{{ articles.next_page_number }}</a>
+                    {% if articles.next_page_number != articles.paginator.num_pages %}
+                        <a href="{{ articles.paginator.num_pages }}" class="page">{{ articles.paginator.num_pages }}</a>
+                    {% endif %}
+                {% endif %}
+            </span>
+        </div>
+    </nav>
+    <label style="font-size: large;">Number of articles: {{ count }}"</label>
+{% endblock %}

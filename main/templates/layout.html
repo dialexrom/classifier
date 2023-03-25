@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+{% load static %}
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{% block title %}{% endblock %}</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+    <link rel="stylesheet" href="{% static 'css/main_page.css' %}">
+    <style> 
+        body {
+            background-color: white
+        }
+        .btn{
+            border: 2px solid black;
+            font-size 16px;
+            background-color:black;
+            padding: 14px 28px;
+        }
+    </style>
+</head>
+<body>
+    <nav class="navbar navbar-expand-md navbar-dark fixed-top bg-higlight" style="float: left; background-color: black !important; height: 6rem !important; box-shadow: 0 1px 3px 0 rgba(0, 0, 0, .1), 0 1px 2px 0 rgba(0, 0, 0, .06) !important;">
+        <div>
+            <a href="/add_file" class="btn" style="font-size: medium;";>Add new article</a>
+        </div>
+        <div>
+            <a href="/classificate" class="btn" style="font-size: medium;">Classify new article</a>
+        </div>
+        <div>
+            <a href="/train" class="btn" style="font-size: medium;">Retrain classifier</a>
+        </div>
+        <div>
+            <form method = "GET">
+                {% csrf_token %}
+                <div style="margin-left:250px">
+                  {% for field in filter_form %}
+                  <div class="form-group">
+                      {{field.label_tag}}
+                      <div>{{field}}</div>
+                  </div>
+                  {% endfor %}
+                  <button class="btn" type="submit" style=" margin-left: 100%; height: 40%; margin-top: -60% !important;">Показать</button>
+            </form>
+        </div>
+      </nav>
+      {% block content %}
+      {% endblock %}
+</body>
+</html>

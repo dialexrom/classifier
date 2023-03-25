@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<doc>
+	<url auto="true" type="str" verify="true"><![CDATA[https://www.nationalgeographic.com/animals/article/gruesome-cancer-afflicting-tasmanian-devils-may-be-waning
+]]></url>
+	<categories theme="animals" auto="true" type="list" verify="true">
+		<item type="str"><![CDATA[ANIMALS]]></item>
+	</categories>
+	<author auto="true" type="str" verify="true"><![CDATA[JASON BITTEL]]></author>
+	<title auto="true" type="str" verify="true"><![CDATA[Gruesome cancer afflicting Tasmanian devils may be waning, a hopeful sign]]></title>
+	<publish_date auto="true" type="str" verify="true"><![CDATA[DECEMBER 10, 2020]]></publish_date>
+	<reading_time auto="true" type="str" verify="true"><![CDATA[• 7 MIN READ]]></reading_time>
+	<text auto="true" type="str" verify="true"><![CDATA[For nearly a year since the first cases of COVID-19 ripped across the world, humanity has been talking about viruses. But for the past three decades, Tasmanian devils have been suffering from their own pandemic—a gruesome facial cancer that spreads through biting.
+The Australian marsupial’s tumors cause cavernous mouth sores that eventually lead to starvation. And unlike nearly all other cancers, this form is contagious.
+Devil facial tumor disease, as it’s called, has slashed the species’ population from 140,000 animals to around 20,000. It’s easily spread because the feisty animals often nip each other during breeding season or while scrapping over carcasses, their main source of food. (Related: Can Tasmanian devils beat cancer of the face?)
+Many experts worry that if this pattern continues, the disease will eventually drive the species from endangered to extinct. In response, scientists have bred Tasmanian devils in captivity, and earlier this year, reintroduced 26 of the animals to mainland Australia. The 2.5-foot-long carnivores were once plentiful in the wild throughout Australia’s mainland and its island state of Tasmania; today, they’ve been reduced to the individuals living in Tasmania.
+But a new study of the cancer’s genomics, published today in the journal Science, offers a rare bright spot: The disease’s infection rate among wild devils has declined greatly since it first emerged, suggesting that Tasmanian devils could coexist with the disease.
+“This is potentially really exciting, because this means the disease is not racing through natural populations the way it used to,” says study leader Austin Patton, an evolutionary biologist at University of California, Berkeley. “It’s slowing down.”
+A reduced transmission
+Scientists first discovered the devils’ cancer in 1996, though it likely originated in the 1970s or 1980s. In 2015, researchers concluded that devil facial tumor disease is actually two separate conditions, known as DFT1 and DFT2. Though both varieties cause virtually indistinguishable tumors and lead to starvation and death, the two cancers are genetically distinct. They also have independent origins: DFT2 arose in a male devil at the opposite end of the island to where DFT1 first originated, in a female.
+“The finding of DFT2 by our group was a major surprise to us, given the rarity of transmissible tumors in vertebrates,” says Bruce Lyons, an immunologist at the University of Tasmania and co-author of that study, published in Proceedings of the National Academy of Sciences.
+Only a handful of infectious cancers have been identified in nature, including one that affects domestic dogs and another that harms softshell clams. (Read about rare cancers spreading among sea creatures.)
+To get a better understanding of how DFT1 is moving throughout the devil population, Patton and his colleagues employed a technique called phylodynamics, typically used to study viruses.
+Phylodynamic approaches reconstruct how a pathogen spreads and evolves over time by analyzing its genes. To do this analysis, Patton’s team used samples collected from 51 Tasmanian devil tumors starting in the early 2000s.
+Around 2003, when sampling began, the team found the cancer spread at a factor of around 3.5, says Patton. This means that every time a Tasmanian devil became infected with the disease, it likely gave that infection to 3.5 other unlucky animals.
+However, as recently as 2018, when the last sample was taken, Patton and colleagues found that this cancer spread factor number has now dropped to around 1—which means the cancer is unlikely to drive the species to extinction, he says.
+But it isn’t necessarily good news, he cautions. The lower rate of transmission may simply be because, with so few devils remaining, the cancer can’t spread as effectively. The study also did not look at DFT2, whose infection rate remains unknown.
+Complicated cancer
+Another study, published in PLOS Biology in November, suggests that the devils’ cancer story is even more complicated.
+Elizabeth Murchison, a geneticist at the University of Cambridge, and colleagues found that DFT1 has five different types, or clades, each of which could infect the same devil. Think of it as similar to when breast cancer spreads into the brain, lungs, and liver, Murchison says in an email: “DFT1 has, in a sense, ‘metastasized’ through the devil population.”
+And these genetic differences may affect how the species recovers.
+For instance, Lyons is working on a vaccine to prevent the devils from spreading the disease—but he has to take into account such genetic complexities which could make matters even more difficult.
+Likewise, reintroducing devils into the wild could backfire if these captive-bred animals lack certain evolutionary adaptations that help them fight the disease. (See our photo gallery of Tasmanian devils.)
+That’s exactly why captive devils have not been released into Tasmania since 2016, says Carolyn Hogg, a conservation biologist at the University of Sydney. Meanwhile, the devils recently released on mainland Australia have never come into contact with the cancer.
+“Populations are persisting in the presence of the disease,” says Hogg, as well as other threats to their future such as inbreeding, habitat fragmentation, vehicle collisions, and more.
+Despite it all, she says, conservationists aren’t giving up on the animals: “Those who work with devils in the wild have been cautiously optimistic.”]]></text>
+</doc>

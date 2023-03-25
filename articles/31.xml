@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<doc>
+	<url auto="true" type="str" verify="true"><![CDATA[https://www.nationalgeographic.com/science/article/these-microbes-eat-viruses
+]]></url>
+	<categories theme="animals" auto="true" type="list" verify="true"/>
+	<author auto="true" type="str" verify="true"><![CDATA[DOUGLAS MAIN]]></author>
+	<title auto="true" type="str" verify="true"><![CDATA[Viruses as prey? It’s just one of the surprising roles they play]]></title>
+	<publish_date auto="true" type="str" verify="true"><![CDATA[JANUARY 23, 2023]]></publish_date>
+	<reading_time auto="true" type="str" verify="true"><![CDATA[• 5 MIN READ]]></reading_time>
+	<text auto="true" type="str" verify="true"><![CDATA[Though we often think of viruses as being harmful, only a small percentage of the millions of known species are pathogens. In fact, viruses are all around us, playing helpful and intricate roles in our bodies and the environment.
+Now, new research shows that they can also serve as food for certain microbes.
+In a study published in Proceedings of the National Academy of Sciences, researchers report that a small single-celled microbe, a ciliate in the genus Halteria, can subsist and grow entirely by consuming a certain type of virus. Scientists estimate each of these individual microbes can eat up to a million viruses per day, and in a small pond in their native habitat of North America, they could probably eat hundreds of trillions.
+Scientists knew that certain microbes can sometimes consume viruses, but it was thought to have minor importance nutritionally and otherwise, says John DeLong, study lead author and an evolutionary ecologist at the University of Nebraska–Lincoln. Viruses are packets of DNA or RNA that need hosts cells to reproduce, and which are thought to infect all living species.
+“The sense was [eating viruses] doesn’t make much of a caloric difference since they are so small,” says DeLong. “But we think it’s happening all the time in nature at a very large scale.”
+If microbes subsist on viruses, that significantly changes our understanding of how nutrients and elements like carbon move through the ecosystem, he says.
+And if it happens on a large scale, as the scientists think, it means these substances may make their way up the food web much more efficiently than previously thought.
+Viruses as prey
+DeLong and colleagues study chloroviruses, which infect the symbiotic algae found within the cells of microbes such as paramecia. Chloroviruses thrive in many freshwater environments, with perhaps up to several million in every milliliter of water. These viruses gain access to the algae when other viruses infect and break open their hosts. (Learn more: There are more viruses than stars in the universe. Why do only some infect us?)
+The sheer quantity of chloroviruses led DeLong to wonder: If there is so much of this virus, is it possible that anything might be consuming it?
+To test that question, in the lab, DeLong and colleagues added purified chlorovirus to drops of water taken from a small pond near his lab in Nebraska. He wanted to see if there were any “volunteers” that might respond positively to the viruses’ introduction. And some of them did.
+One of the most enthusiastic was a planktonic microbe, Halteria.
+Next, he added viruses to a petri dish containing large amounts of the ciliate, and they grew quickly and reproduced, surviving only on the virus. The researchers added a dye to the viruses to ensure that viral particles were being digested by Halteria.
+“It was shockingly fast to me,” DeLong says. “Those cells start to glow in five to 10 minutes.”
+Delong suspects there are probably many other microbes that can consume viruses, such as other ciliates and flagellates. But it remains unknown how often this virus-eating, or virovory, happens in the real-world environment, in part because such microscopic interactions are difficult to observe in the wild. 
+“It’s nice to have this example of viruses being a nutritious food,” says Kyle Edwards, a researcher who studies marine viruses at University of Hawaii at Manoa, who wasn’t involved in the paper.
+“There have been some studies for a while now indicating that viruses can be consumed by unicellular organisms [occasionally], but I had not seen any study before showing that they could be a substrate for growth.” (Related: Powerful tools help scientists find a virus’s weak spot.)
+Helpful invaders
+Besides potentially serving as food to other microbes, viruses play several ecological roles that remain poorly understood.
+Each species has viruses that can infect it. These can can spread widely within a population, curtailing the species’ numbers—especially among microbes.  This dynamic leads to boom-bust cycles of organisms, and helps to limit growth of phenomena such as algal blooms, which can be harmful to marine life, Edwards says. 
+Viruses also help spur evolution by inserting new genetic material into their hosts. A total of eight percent of the entire human genome, for example, is made up of the ancient remains of viruses—known as human endogenous retroviruses—that infected our ancestors eons ago. (Learn more: How viruses shape our world.)
+The most famous of these viral remnants is called syncytin. It encodes proteins that are necessary for many mammals, including humans, to become pregnant. Other genes taken from ancient viruses help ward off cancer; assist in embryonic development; and, ironically, fight infections.
+A reshuffling of the food web?
+The new study may also change our understanding of how carbon, nitrogen, and other nutrients move throughout the environment.
+It’s thought that viruses infect microbes, then spill their insides into the environment, where bacteria eat them. This keeps many nutrients and resources mired at the bottom of the food web.
+But if enough microbes eat viruses, this so-called viral shunt may be less important as a pathway than thought, DeLong says.
+“We don’t know how much it’s happening in nature, but if it is, there’s another pathway that energy and nutrients are moving from bottom to the top… that could play a big role in carbon cycling and processing,” he says.  
+This would significantly change our perception of the carbon cycle, he says, and have implications for how we understand the ecology of ponds and streams, certain intricacies of the climate system, and more.]]></text>
+</doc>

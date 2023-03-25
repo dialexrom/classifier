@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<doc>
+	<url auto="true" type="str" verify="true"><![CDATA[https://www.nationalgeographic.com/animals/article/tree-dwelling-mice-echolocate-study-shows
+]]></url>
+	<categories theme="animals" auto="true" type="list" verify="true">
+		<item type="str"><![CDATA[ANIMALS]]></item>
+	</categories>
+	<author auto="true" type="str" verify="true"><![CDATA[DOUGLAS MAIN]]></author>
+	<title auto="true" type="str" verify="true"><![CDATA[These blind mice can ‘see’ with their ears, a first among rodents]]></title>
+	<publish_date auto="true" type="str" verify="true"><![CDATA[JUNE 17, 2021]]></publish_date>
+	<reading_time auto="true" type="str" verify="true"><![CDATA[• 5 MIN READ]]></reading_time>
+	<text auto="true" type="str" verify="true"><![CDATA[Under the cover of darkness in the mountainous forests of East Asia, Chinese pygmy mice emerge from the trees to scurry about the branches and forest floor, scarfing up berries, seeds, and insects. What makes this remarkable is that these animals are almost completely blind.
+So how do they get around? New research published today in the journal Science shows conclusively that they echolocate: the mice get a sense of their surroundings and navigate by sending out high-frequency squeaks, then listening for the echoes that bounce off nearby objects. 
+Previous work suggested that another tree-climbing relative in the same genus, the Vietnamese pygmy dormouse, could likely echolocate. But this is the first study to pull together various lines of evidence and prove beyond a doubt that the ability is present in all four species of the genus Typhlomys, also known as soft-furred tree mice.
+“Echolocation in all species of the genus indeed surprises us,” says Peng Shi, the study’s senior author, a researcher with the Kunming Institute of Zoology at the Chinese Academy of Sciences.
+To date, there are only two well-studied groups of echolocating mammals: bats and cetaceans, which include whales, dolphins, and porpoises. There’s some evidence that shrews and tenrecs—a diverse group of small mammals endemic to Madagascar—can echolocate, though almost certainly not as effectively as bats and cetaceans. Shi says that this ability has likely evolved independently in five different mammalian lineages.
+Several types of birds, including oilbirds and swiftlets, use a more rudimentary form of echolocation. (Learn more: Echolocation is nature’s built-in sonar. Here’s how it works.)
+Prior hints of echolocation  
+In 2016, Aleksandra Panyutina, a biologist at the Severtsov Institute of Ecology and Evolution, in Moscow, produced evidence that Vietnamese dormice could evade obstacles within the lab in complete darkness. She recorded some of their calls, which were similar in frequency and cadence to those of echolocating bats: very high-pitched and repeated, in some cases, dozens of times per second.
+But recording wasn’t easy. “We did not have the necessary equipment to record the echolocation signals as my bat-detector was too insensitive for this soft-voiced rodent.”
+She teamed up with Ilya Volodin, a biologist at Lomonosov Moscow State University, and other colleagues. Together they learned more about dormouse vocalizations and studied their eyes. These are “not only very small, but also have very few light-perceiving cells,” Volodin says.
+Bringing it together
+For the current study, Shi and colleagues collected four species of pygmy dormice from mountains throughout China; each species is just a couple inches in length and covered in soft grayish brown fur. In the lab, they performed a variety of experiments in total darkness to test their subjects’ ability to echolocate.  
+First, the researchers compared the behavior of pygmy dormice in a cluttered space and the same animals in an uncluttered space. They found that the animals in the former setting, compared to the latter, significantly increased the frequency and number of ultrasonic calls. Next, they showed that the animals can find their way through small holes in a clapboard, but only after issuing a series of squeaks.
+The scientists also introduced the mice to an elevated disk and allowed them to explore. Below this platform they placed a narrow ramp that led to a food reward. All the mice increased their calls and were able to drop down onto the ramp in complete darkness. The researchers also put earplugs in the mice and allowed them to try again. This time, they couldn’t find the ramp and made fewer ultrasonic vocalizations.
+The scientists compared the bone structure of the tree mice with that of echolocating bats, and found surprising similarities in the structure of the pharyngeal area, behind the mouth and nasal cavity, where the calls are produced. Likewise, they found that the stylohyal bone of the tree mouse was fused with the tympanic bone, near the ears. The only other mammals with this structure: bats.
+These anatomical similarities suggest homoplasy, a type of convergent evolution, in which similar traits develop in disparate, unrelated species, says Rebecca Whiley, a researcher and master’s student at the Sensory Biophysics Lab at York University, who wasn’t involved in the paper. The study authors suggest this anatomy allows the animals “a more effective neuronal representation of the outgoing signals for comparison with returning echoes”—in other words, a better way to mentally map their surroundings.
+Next, the researchers sequenced the genome of the Chinese pygmy dormouse and compared it to those of dolphins and two types of bats. They found a higher number of similarities in hearing-related genes than random chance would explain. They also found that the one important vision-related gene, which helps cells within the retina function, was nonfunctional in all four tree mice species—further evidence that the animals can barely see.
+Shi and colleagues hope to continue studying these animals and perhaps their relatives. These mice remain little known, and there are likely more than four species within the genus. Shi also suspects there are other animals beyond this genus with the ability to navigate in the dark.
+“Our study suggests a greater biodiversity of adaptive traits than we’d ever have thought,” she says. “We are almost certain that there are more echolocating animals waiting to be discovered.”]]></text>
+</doc>

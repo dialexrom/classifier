@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<doc>
+	<url auto="true" type="str" verify="true"><![CDATA[https://www.nationalgeographic.com/animals/article/how-so-many-animal-species-contract-covid
+]]></url>
+	<categories theme="animals" auto="true" type="list" verify="true">
+		<item type="str"><![CDATA[ANIMALS]]></item>
+	</categories>
+	<author auto="true" type="str" verify="true"><![CDATA[DOUGLAS MAIN]]></author>
+	<title auto="true" type="str" verify="true"><![CDATA[COVID-19 is more widespread in animals than we thought]]></title>
+	<publish_date auto="true" type="str" verify="true"><![CDATA[JANUARY 9, 2023]]></publish_date>
+	<reading_time auto="true" type="str" verify="true"><![CDATA[• 6 MIN READ]]></reading_time>
+	<text auto="true" type="str" verify="true"><![CDATA[We think of COVID-19 as a human pandemic, but it’s much more than that. The virus that causes the disease, SARS-CoV-2, can infect a wide and growing range of animals, both captive and wild.
+So far, the virus has been detected in more than a hundred domestic cats and dogs, as well as captive tigers, lions, gorillas, snow leopards, otters, and spotted hyenas, according to the U.S. Department of Agriculture. Zoo staff in the U.S. have recorded a single positive case in a binturong, coati, cougar, domestic ferret, fishing cat, lynx, mandrill, and squirrel monkey.
+In the United States, only three wild species—mink, mule deer, and white-tailed deer—have tested positive, according to the USDA. Cases have been detected elsewhere in the world in wild black-tailed marmosets, big hairy armadillos, and a leopard.
+But testing of wild animals is infrequent, and COVID-19 has likely impacted many more species, which emerging research is beginning to show. “I think the spread to wildlife animals is much wider than previously thought,” says Joseph Hoyt, a disease ecologist at Virginia Tech.
+How does SARS-CoV-2 infect such a big range of species, and what are the impacts?
+The receptor connection
+A major reason lies in a complicated receptor found in all mammals, called ACE-2. This receptor plays an important role in regulating blood pressure and other physiological functions.
+Once the spike protein of SARS-CoV-2 enters the body, it begins infecting host cells by binding to the ACE-2 receptor, which is widespread in the upper airways and sinuses of humans and many other mammals.
+The ACE-2 receptor’s physical structure varies relatively little across vertebrate species compared with other similar proteins, says Craig Wilen, a virologist at Yale University. Even so, there are enough small variations that scientists initially thought some mammals would be very unlikely to be infected.
+But that thinking has changed as animals initially thought to be less susceptible have proven anything but. It now appears that many if not most mammalian ACE-2 receptors are susceptible and don’t represent a limiting factor for the virus.
+“It seems like it’s good enough… even if it isn’t a perfect match,” says Rick Bushman, a professor at University of Pennsylvania’s School of Medicine who studies host-microbe interactions.
+Instead, there are likely many other factors at play that determine vulnerability, the details of which remain almost totally unknown.
+A vast range
+We already know that the virus can infect and spread within wild mink and white-tailed deer—and for both species, there is at least one verified instance in which the virus has gone from humans to the animals and back again to humans. Besides mink, domestic ferrets and golden hamsters also appear to easily spread the virus to one another in captive settings.
+Aside from the previously listed animals, an upcoming study published ahead of print in BioRxiv identified probable cases of SARS-CoV-2 infection in wild deer mice, raccoons, opossums, gray squirrels, white-footed mice, striped skunks, and more.
+Carla Finkielstein, a co-author of the paper, along with Hoyt and conservation biologist Amanda Goldberg, were surprised when they first found evidence of SARS-CoV-2 infection in Virginia opossums.
+“We were worried, because that means it’s jumping” to distantly related mammals, Finkielstein says. “Opossums are very different from us biologically,” Goldberg adds.
+Opossums are marsupials that give birth to honeybee-size young, which suckle on teats in their mothers’ pouches. Marsupials diverged from placental mammals—which includes many common mammals—more than 150 million years ago.
+If SARS-CoV-2 can infect opossums, they reasoned, it’s likely that it could infect a massive variety of mammals. Indeed, the team found signs of antibodies against SARS-CoV-2 in significant percentages of six urban wildlife species in southwestern Virginia. They also obtained positive PCR hits—which are indicative of but don’t prove infection—in two of these species and in another four others, including red foxes and bobcats.
+Another recently submitted paper also found signs of the pathogen infecting 17 percent of New York City sewer rats tested. And a small percentage of wild white-footed mice in Connecticut have also become infected, according to research by Rebecca Earnest, a doctoral student at Yale University.
+Infection questions
+But how are wild animals such as deer becoming exposed to the virus?  
+The question has yet to be answered, but there are theories. Wildlife could become infected by coming into close contact with human trash or wastewater, or by inhaling the virus when near people. Exposure could also occur following interactions with pets such as cats and dogs—or captive deer—which  can carry the virus.
+But “I think everybody agrees… that nobody knows,” Bushman says.
+However white-tailed deer are being exposed, it is happening often. One 2021 study suggested that more than one-third of deer in the U.S. Northeast and Midwest had been exposed. Another paper found that the virus had entered into deer at least four separate times from humans, and yet a third study found the virus passed back into a single human in Canada. (Read more: Wild U.S. deer found with coronavirus antibodies.)
+One reason animal infections matter is because they represent new reservoirs for the virus, where it can be sustained and acquire new mutations that could theoretically help it spread better if it finds its way back to humans. 
+“More transmission across more species is not something we want to see,” Earnest says.
+Overlooked problem
+The ability of SARS-CoV-2 to infect wildlife amounts to a hidden panzootic—the animal version of an epidemic—with almost entirely unknown effects, says Finkielstein.
+Infected animals often appear to have mild symptoms, but experts know almost nothing about how the various variants of the virus affect most animals. Sometimes, infections are deadly. The virus appears to kill a small percentage of infected mink, and three snow leopards died due to complications from COVID-19 at the Lincoln Children’s Zoo in Nebraska.
+Wilen cautions that we don’t really know how sick animals may be getting in the wild. He cites the example of chimpanzee simian immunodeficiency virus (SIVcpz), which jumped into humans and turned into HIV-1. It was long thought SIV caused only mild symptoms in chimpanzees, but research eventually determined that the virus can lead to a condition similar to AIDS in the animals, which usually shortens their life spans.
+Effects of viruses are particularly hard to study in wild animals, particularly at the ecological level, Hoyt adds.
+“We don’t know the consequences of this for the wildlife,” Finkielstein agrees. “That’s another aspect that has been largely ignored.”]]></text>
+</doc>

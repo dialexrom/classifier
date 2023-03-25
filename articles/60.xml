@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<doc>
+	<url auto="true" type="str" verify="true"><![CDATA[https://www.nationalgeographic.com/animals/article/animals-freeze-then-thaw-explained
+]]></url>
+	<categories theme="animals" auto="true" type="list" verify="true">
+		<item type="str"><![CDATA[ANIMALS]]></item>
+	</categories>
+	<author auto="true" type="str" verify="true"><![CDATA[CHRISTINE PETERSON]]></author>
+	<title auto="true" type="str" verify="true"><![CDATA[These animals can freeze solid in winter. Here’s how they survive.]]></title>
+	<publish_date auto="true" type="str" verify="true"><![CDATA[NOVEMBER 17, 2022]]></publish_date>
+	<reading_time auto="true" type="str" verify="true"><![CDATA[• 6 MIN READ]]></reading_time>
+	<text auto="true" type="str" verify="true"><![CDATA[A college professor at my university years ago shocked his class with a demonstration. He showed off a wood frog that was still alive but frozen solid. Then suddenly, he threw it against a wall and it shattered. Everyone gasped.
+Moments later, he explained that he hadn’t actually thrown the frog. For dramatic effect he had switched the frog for a hunk of ice. But the goal was to illustrate a point: That a wood frog does in fact freeze as solid as ice to survive the winter. Then it thaws again in the spring.
+The wood frog is one of the most frequently studied animals on Earth that freezes. When temperatures drop in the fall, it nestles in leaves and lets the cold creep into its body until it fully succumbs—heart, brain, and all. But it’s not the only species that essentially dies and then comes back to life. (Read about other animals that cope with extreme cold.)
+Thousands of insect larvae freeze and thaw, and some go back and forth every day depending on the weather. Young painted turtles manage to freeze without the same methods as the wood frog. And then there are tardigrades, which dehydrate completely and wait for spring.
+“The reason you freeze is to extend your range farther north or higher in elevation like the top of a mountain,” says Kenneth Storey, a professor of biochemistry at Carleton University in Ottawa, Canada, who studies freeze tolerance.
+“You can get a better niche in the world if you can freeze.”
+Sugars are key
+ “So here’s the wood frog, it’s liquid, it’s hopping around, then ice comes on it from the outside,” says Storey. “Its skin gets frozen a little bit, and then ice penetrates into the frog through veins and arteries.”
+From there it gets weirder. The frog’s eyes glaze over, its brain freezes, and ice pushes blood to the frog’s heart before eventually that, too, is rock solid.
+This transition requires major changes in biochemistry. The frog’s microRNA molecules reorganize cells to protect them from damage. Ice then slowly forms around the outside of organs and cells. At the same time, the frog’s liver pumps out incredible amounts of glucose—a syrupy liquid that acts like antifreeze for vital organs—that seeps everywhere including the insides of cells to keep them from shrinking and dying.
+Then in the spring, Storey says, “the sun will shine, mud will form, they’ll warm up, and they’ll thaw.”
+The extent of their frozen-ness varies. Wood frogs in Alaska will freeze down to negative 5 degrees Fahrenheit. Others in North Carolina cool to 8.6 degrees. But the mechanisms are the same. And they’ve also been observed in other frogs, including the southern brown tree frog, the spring peeper frog, and cricket frogs, as well as in many insects and insect larvae.
+But it’s not the only way animals freeze. According to new research published in the journal Science of the Total Environment, painted turtle hatchlings freeze as microRNA reorganize their metabolism in a way that requires significantly less glucose than wood frogs. And as adults, they don’t freeze so much as hold their breath. The adults hibernate underwater in mud where they can survive up to four months without breathing.
+The downsides of supercooling
+The word “supercool” is used sometimes in reference to subzero freeze avoidance. But true supercooling in nature—and especially with human organs—comes with risks, says Shannon Tessier, an assistant professor at Harvard Medical School who studies how suspended animation in nature can translate to human organ transplants.
+Ice needs something to form around, otherwise known as a nucleating agent, which can be as small as a piece of dust or a cholesterol molecule. But if an insect or animal can ward off the formation of ice crystals, their frozen blood remains liquid. 
+That’s a big if. Outside of a very controlled laboratory, our world is full of nucleating agents, Tessier says. The Arctic ground squirrel has been shown to outrun freezing by eliminating all potential nuclei for crystals to form. But that doesn’t mean it supercools to extremes. And if it did, which Storey makes clear it doesn’t, any outside force or an intruding nucleating agent would turn the ground squirrel into an icicle that wouldn’t come back to life.
+“Maintaining an organ in a liquid state has many advantages,” Tessier says. “But if it’s always at a risk of accidental ice formation, it’s a problem that needs to be addressed.”
+This is the reason many species that live in cold climates have developed proteins or sugars to help lower their blood’s freezing temperature, thus allowing them to drop below 32 degrees without forming ice. Some marine fish species have antifreeze proteins while many insects use sugar.
+Different insects have evolved different wants to accomplish this same goal. Gall fly larvae freezes solidly in the winter when it’s subzero and thaws when it warms, even over the course of 24 hours. Gall moth larvae, on the other hand, stay liquid during the day and night, Storey says.
+Gall fly larvae use sugar like the wood frog to buffer its cells from the damaging effects of subzero temperatures. Gall moth larvae use sugar to prevent freezing, essentially supercooling to as cold as negative 36 degrees Fahrenheit.
+Dehydrating to dry cool
+Tardigrades, the microscopic invertebrates found in Earth’s most extreme environments, have found an inventive way to prevent water in their cells from freezing: They just expel it.
+Humans can’t do that. If a person lost even five percent of their water, they would die. But tardigrades offload water until they’re almost completely dry. Their brains shut down, their eight legs pull in, and they ride out the cold.
+“So you can plunge them into liquid nitrogen, and they’re fine,” Storey says.
+Just as quickly, though, tardigrades bounce back. Give them water, and they rehydrate and come back to what we know as life. (Read how tardigrades could survive an apocalypse.)
+Wood frogs and other animals that survive extreme conditions in nature have many applications in medicine, especially in the world of organ transplants, Tessier says. A human heart, for example, can only exist outside the body for about four hours.
+“This limited time causes logistical constraints,” she says. “So we’re trying to use the principles from wood frogs with high amounts of glucose and freeze a whole liver or heart or other organ, keep it in suspended animation, safely reanimate it, and transplant it.”]]></text>
+</doc>

@@ -1,0 +1,54 @@
+body {
+    margin-top: 10%;
+    background: yellow;
+    color: black;
+    font-family: Roboto;
+    font-size: medium;
+}
+
+label[for] {
+    color: white
+}
+
+body .alert{
+    background: #2c2c2c;
+    color: #fff;
+    font-family: Roboto;
+    font-size: large;
+}
+
+div .page {
+    background-color: #808080;
+    color: white;
+    border-radius: 1px;
+    padding: 1px;
+    text-decoration: none;
+    text-align: center;
+    transition: all .6s ease;
+    font-size: large;
+}
+
+div[class="pagination"]{
+    background-color: #808080;
+    color: white;
+    font-size: large;
+}
+
+div .btn {
+    display: inline-block; /*Строчно-блочный элемент*/
+    /* background: grey; Серый цвет фона */
+    color: #fff; /* Белый цвет текста */
+    padding: 1rem 1.5rem; /* Поля вокруг текста */
+    text-decoration: none; /* Убираем подчёркивание */
+    border-radius: 3px; /* Скругляем уголки */
+    transition: all .6s ease;
+    width: max-content;
+    font-family: Roboto;
+    font-size: medium;
+}
+
+div .btn:hover{
+    color: #eb5959;
+    text-decoration: none;
+    transform: scale(1.06);
+}

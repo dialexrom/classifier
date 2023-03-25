@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<doc>
+	<url auto="true" type="str" verify="true"><![CDATA[https://www.nationalgeographic.com/magazine/article/helping-an-animal-vital-to-brazils-rainforest-survive
+]]></url>
+	<categories theme="animals" auto="true" type="list" verify="true">
+		<item type="str"><![CDATA[MAGAZINE]]></item>
+		<item type="str"><![CDATA[INNOVATOR]]></item>
+	</categories>
+	<author auto="true" type="str" verify="true"><![CDATA[ANNIE ROTH]]></author>
+	<title auto="true" type="str" verify="true"><![CDATA[Helping an animal vital to Brazil’s rainforest survive]]></title>
+	<publish_date auto="true" type="str" verify="true"><![CDATA[JULY 6, 2021]]></publish_date>
+	<reading_time auto="true" type="str" verify="true"><![CDATA[• 2 MIN READ]]></reading_time>
+	<editor_notes auto="true" type="str" verify="true"><![CDATA[The National Geographic Society has funded Medici’s work. Learn more about its support of explorers protecting critical species at natgeo.com/impact.
+This story appears in the August 2021 issue of National Geographic magazine.]]></editor_notes>
+	<text auto="true" type="str" verify="true"><![CDATA[As a child living on the outskirts of São Paulo, Brazil, Patrícia Medici spent her playtime “walking along trails in the forest and watching animals.” Her passion for wildlife blossomed into a career: Medici, a conservation biologist and National Geographic Explorer, is the world’s leading expert on the lowland tapir, a large, elusive South American herbivore.
+Looking like a cross between a pig and an elephant, tapirs can be six feet long and as heavy as a pony. “They’re so big and powerful but still so gentle,” Medici says. “When they walk through the forest, you can barely hear them.” 
+When she started studying lowland tapirs in 1996, little was known about them other than that they were at risk of extinction because of poaching and habitat loss. Medici has spent decades tracking tapirs across wetlands and jungles, using GPS telemetry and camera traps. The findings have transformed our understanding of tapir ecology.
+In 2020 wildfires devastated about a third of Brazil’s Pantanal region, the world’s largest tropical wetland and a crucial lowland tapir habitat. The fires killed and injured many tapirs, often called the “gardeners of the forest” because their seed-laden droppings promote growth. Medici is focused on saving the remaining tapirs, which she deems crucial to restoring the ecosystem. “We have to make sure that they survive so their habitat will be there for the next generation,” she says. ]]></text>
+</doc>

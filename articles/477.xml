@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<doc>
+	<url auto="true" type="str" verify="true"><![CDATA[https://www.nationalgeographic.com/animals/article/gorillas-san-diego-zoo-positive-coronavirus
+]]></url>
+	<categories theme="animals" auto="true" type="list" verify="true">
+		<item type="str"><![CDATA[ANIMALS]]></item>
+		<item type="str"><![CDATA[CORONAVIRUS COVERAGE]]></item>
+	</categories>
+	<author auto="true" type="str" verify="true"><![CDATA[NATASHA DALY]]></author>
+	<title auto="true" type="str" verify="true"><![CDATA[Several gorillas test positive for COVID-19 at California zoo—first in the world]]></title>
+	<publish_date auto="true" type="str" verify="true"><![CDATA[JANUARY 12, 2021]]></publish_date>
+	<reading_time auto="true" type="str" verify="true"><![CDATA[• 4 MIN READ]]></reading_time>
+	<editor_notes auto="true" type="str" verify="true"><![CDATA[Editor's note: This story was updated to clarify that the gorillas live at the San Diego Zoo Safari Park, an affiliate of the San Diego Zoo.]]></editor_notes>
+	<text auto="true" type="str" verify="true"><![CDATA[Three western lowland gorillas at the San Diego Zoo Safari Park have tested positive for the coronavirus, the U.S. Department of Agriculture announced this afternoon, making them the world’s first-known great apes to contract the virus.
+The gorillas, who live in a troop of eight, are expected to recover, says Lisa Peterson, executive director of the San Diego Zoo Safari Park, in California. Caretakers have decided to keep all eight gorillas together and monitor them closely.
+“Some may have it and others may not,” Peterson says. “They live in a troop with a single silverback. He’s the leader. He guides them throughout the day. They look to him. It’s really best for them that they’re allowed to continue as they are.”
+Gorillas are the seventh animal species to have contracted the virus naturally, following confirmed infections in tigers, lions, mink, snow leopards, dogs, and domestic cats. While there are documented cases of mink-to-human transmission in the Netherlands and Denmark, there is no evidence that the other species can make humans sick. (Here’s how diseases can jump from animals to humans.)
+Like the lions and tigers at the Bronx Zoo, which tested positive in April, the three infected gorillas probably contracted the virus from an asymptomatic zoo worker, according to Peterson. She says that the zoo has strict protocols for preventing infections, including a daily questionnaire for staff and full protective suits for those in direct contact with animals.
+Two of the gorillas first began coughing on January 6. Zoo staff collected fecal samples and sent them to the California Animal Health and Food Safety Laboratory System. That lab and the USDA’s National Veterinary Services Laboratories (NVSL) confirmed the infection on January 11.
+The three gorillas, whom the zoo is not naming, are still showing symptoms. Some have runny noses and are lethargic. “Everybody is a little more tempered in their activities,” Peterson says, “but they’re getting fluids and eating well.”
+This news confirms earlier research that critically endangered western lowland gorillas—along with several other rare or endangered species of apes—are particularly susceptible to SARS-CoV-2, the virus that causes COVID-19. “The potential for COVID-like disease outbreak in either captive or wild populations of endangered primates is pretty high,” Harris Lewin, a distinguished professor of ecology and evolution at University of California, Davis, told National Geographic in November.
+Fewer than 5,000 gorillas remain in the wild. Because they live in close family groups, researchers worry that if one caught the virus, the infection may spread quickly and imperil already precarious populations.
+Dan Ashe, president and CEO of the Association of Zoos and Aquariums (AZA), tells National Geographic by email that the gorillas testing positive is “concerning,” but he has “complete confidence” that the San Diego Zoo staff is taking every precaution.
+All confirmed cases of zoo animals contracting the coronavirus in the U.S. have been at AZA-accredited facilities—the Bronx Zoo, San Diego Zoo Safari Park, and Louisville Zoo, which all follow strict health protocols, Ashe says. At unaccredited zoos, many of which lack the expertise and professionalism of accredited facilities, it’s unknown how many animals, if any, may have contracted the virus without ever being tested.
+Peterson says she is hopeful that what the zoo learns through observing its COVID-positive gorillas may help protect wild populations.]]></text>
+</doc>

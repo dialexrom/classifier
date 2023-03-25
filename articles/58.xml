@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<doc>
+	<url auto="true" type="str" verify="true"><![CDATA[https://www.nationalgeographic.com/animals/article/owls-rodents-snow-hunting-canada
+]]></url>
+	<categories theme="animals" auto="true" type="list" verify="true">
+		<item type="str"><![CDATA[ANIMALS]]></item>
+	</categories>
+	<author auto="true" type="str" verify="true"><![CDATA[CAROLYN WILKE]]></author>
+	<title auto="true" type="str" verify="true"><![CDATA[How this owl detects prey hiding under mounds of snow]]></title>
+	<publish_date auto="true" type="str" verify="true"><![CDATA[NOVEMBER 23, 2022]]></publish_date>
+	<reading_time auto="true" type="str" verify="true"><![CDATA[• 5 MIN READ]]></reading_time>
+	<text auto="true" type="str" verify="true"><![CDATA[Great gray owls can find and capture voles hidden beneath almost two feet of snow, punching through hardened crusts with their legs to snag a meal. Now researchers have uncovered hints of how these birds of prey use sound to accomplish such an impressive feat.
+The new study, published November 22 in the Proceedings of the Royal Society B, suggests the owls hover over the snow to locate muffled sounds, and that their broad faces help with this task.
+“Snow is really famous for absorbing sound,” says study leader Christopher Clark, an ornithologist at the University of California, Riverside, who ran a series of experiments measuring sound in Manitoba, Canada, earlier this year.
+Researchers have previously thought that the hunters zero in on rodents’ ultrasonic vibrations. But the new experiments suggest owls could also be picking up lower-pitched sounds, for instance those created by voles digging tunnels under the snow.
+Though people often think owls’ ears are on top of their heads, they’re actually closer to the center of their face, which is fringed by a ring of sound-reflecting feathers that funnel sounds toward their ears. (Read about a new owl species found with a haunting screech.)
+The bigger an owl’s facial disc, the lower the frequency of sound it can intercept—and the great gray owl, found throughout the Northern Hemisphere, has the biggest facial disc of any owl, Clark says.
+“Probably what’s going on is that the facial disc is really big to make them more sensitive to low-frequency sound.”
+Snowbound
+In February 2022, Clark and colleagues traveled to the forests of Manitoba and located seven newly made plunge holes, which are created by an owl diving into the snow after its prey.
+Next to each hole, they dug another, where they placed a speaker. Because of the frigid temperatures—one day was negative 30 degrees Celsius—the team had to contend with technology failing from the cold. “It was exhilarating work to do in the sense that stuff kept going wrong due to the weather,” Clark says.
+Next the team used an acoustic camera, which has an array of microphones, to record the various noises in the environment. From the buried speakers, they then played white noise, a high-frequency sound, and recordings of a burrowing vole, a low-frequency sound. (Read about the world’s biggest owl, an endangered species.)
+By removing layers of snow atop the speaker, the team recorded how the depth of snow affected sound frequencies. For instance, data from the acoustic camera revealed that while much of the white noise could escape some eight inches of snow, only the lower-frequency sounds could pass through a 20-inch-deep layer—exactly the sounds that the owls may be detecting.
+Acoustic mirage
+Next, Clark and colleagues investigated a tricky effect that owls must contend with: the acoustic mirage.
+The paths of sound waves from beneath the snow bend when they hit the snow’s surface. Unless an owl is directly above its prey, this bending, called refraction, causes the location where the sound seems come from to differ from its actual origin.
+“It’s the same problem we have when we try and pick up things underwater,” says Megan Gall, a sensory ecologist at Vassar College in Poughkeepsie, New York, who wasn’t involved with the study. 
+The acoustic camera data showed that where a sound seems to come from depends on the hearer’s height above the snow, their horizontal distance to the sound, and the sound’s depth.
+When great gray owls hunt, they tend to fly or glide toward their prey, and, once they’re in the vicinity of a vole, hover overhead for up to 10 seconds, Clark says. Hovering likely allows the owls home in on a spot that minimizes the acoustic mirage.
+“That’s probably the critical point for them to listen and pinpoint where the vole is,” says Clark.
+Silent swoopers
+“It’s a fantastic first step in understanding what is happening to the sound,” Gall says.
+But she adds there’s a lot to learn, particularly from the owls’ point of view. Future experiments could investigate how the avian predators respond to sounds played from beneath the snowpack. Or, scientists could even train birds to attack and watch if their hunting accuracy changes when sounds are manipulated, Gall says. (Take our poll and pick your favorite superb owl.)
+Hermann Wagner, a retired neuroethologist who also wasn’t involved in the new work, notes that the owls’ ability to locate prey at such depths is “remarkable.”
+The new research, he says, reinforces how great gray owls seem to use quiet to their advantage. For instance, structures on the owls’ wings prevent them from making noisy flaps that would drown out the sounds of their prey, Wagner says.
+“What the owl does is it becomes more or less silent so that it can hear much better.”]]></text>
+</doc>

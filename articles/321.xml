@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<doc>
+	<url auto="true" type="str" verify="true"><![CDATA[https://www.nationalgeographic.com/animals/article/heres-why-poisonous-animals-dont-poison-themselves
+]]></url>
+	<categories theme="animals" auto="true" type="list" verify="true">
+		<item type="str"><![CDATA[ANIMALS]]></item>
+	</categories>
+	<author auto="true" type="str" verify="true"><![CDATA[JASON BITTEL]]></author>
+	<title auto="true" type="str" verify="true"><![CDATA[Here’s why poisonous animals don’t poison themselves]]></title>
+	<publish_date auto="true" type="str" verify="true"><![CDATA[AUGUST 5, 2021]]></publish_date>
+	<reading_time auto="true" type="str" verify="true"><![CDATA[• 5 MIN READ]]></reading_time>
+	<text auto="true" type="str" verify="true"><![CDATA[In the forests of New Guinea lives a small, drab bird with a deadly secret. It’s called the hooded pitohui, and its orange and black feathers are laced with poison.
+Simply touching the feathers of a pitohui is enough to make your hands feel like they’re on fire. But ingest a bit of the batrachotoxin, called BTX for short, and the poison stops your sodium channels from working, leading to paralysis and even death.  
+“You can think about these poisons as kind of a natural drug. It’s something that the animals use to protect themselves, because it… either gives a very unpleasant feeling to the thing that’s trying to eat them, or in the worst case, it kills the thing that’s trying to eat them,” says Daniel Minor, a biophysicist at University of California, San Francisco’s Cardiovascular Research Institute. (Learn the difference between a venomous and a poisonous animal.)
+Scientists believe that the pitohui does not manufacture its own toxins, but rather acquires them from its tiny beetle prey. The same mechanism is suspected in poison dart frogs of Central and South America, which also carry BTX in their brightly colored skin.
+All of which leads to an intriguing question—how do poisonous animals like the pitohui keep from poisoning themselves?
+For decades, the best theory has been that the birds and frogs evolved specially adapted sodium channels—a part of the body that’s necessary for nerves, brain cells, and muscle cells to function properly—that are immune to BTX. After all, there are several examples of animals that shrug off toxins by this method, such as Egyptian mongooses that can survive cobra venom.
+But a study published today in the Journal of General Physiology overturns that notion.
+The researchers provide evidence that pitohui and poison frogs have what they call “toxin sponges,” or proteins that mop up the fatal toxins before they cause damage.
+Finding evidence for a “toxin sponge” protein
+In the lab, Minor and colleagues recreated the genes responsible for the pitohui and poison frogs’ sodium channels and put them into living cells of various species exposed to BTX. These cells succumbed to the toxin, suggesting the poisonous animals’ sodium channels aren’t resistant to BTX. However, when they injected living frogs of different species with BTX, only the poison frogs survived.
+“That gives us a clue that there’s something that’s basically shielding the channels from seeing this toxin,” says Minor. His leading theory is a sponge protein, something he’s identified before. In 2019, Minor’s lab found a toxin sponge that grants bullfrogs immunity to another potent poison called saxitoxin. Though he has yet to find something similar in either the pitohui or poison frogs, it’s certainly a goal, he says. (Read about a poisonous frog discovered in Peru.)
+Rebecca Tarvin, an evolutionary biologist at University of California, Berkeley, who has researched how poison frogs tolerate another neurotoxin called epibatidine, is impressed by the results. 
+“Especially given my line of research, I was very surprised to see that the sodium channels of [poison frogs] are not sensitive to batrachotoxin, which is not what we had predicted,” says Tarvin, who is also a National Geographic Explorer. 
+But she also cautioned against overgeneralizing the results. “This is only one of the many toxins that the frogs have,” she says. “But for the case that they tested, I’m convinced.”
+Studying toxins can lead to medical breakthroughs
+Though distant island birds and rainforest frogs may seem like a niche topic to study, unraveling their biological magic can have applications for people everywhere.
+“Toxins have historically played an important role in helping us target specific proteins and discover the function of those proteins, and also serve as the basis for drug design,” says Tarvin. (Find out how venoms could one day save your life.)
+For instance, one component of bullfrog poison has been shown to possess some anti-cancer effects in lab tests, while the tetrodotoxin present in various creatures, from pufferfish to newts, has been targeted as a source of new anesthetic drugs.
+“For me, the most interesting question is, Why the hell don’t these animals kill themselves with this toxin?” says Minor. “But this is [also] going to tell us something really fundamentally important about biological systems."]]></text>
+</doc>

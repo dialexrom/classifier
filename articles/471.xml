@@ -1,0 +1,34 @@
+<?xml version="1.0" ?>
+<doc>
+	<url auto="true" type="str" verify="true"><![CDATA[https://www.nationalgeographic.com/animals/article/tiny-catfish-shrugs-off-piranha-bites
+]]></url>
+	<categories theme="animals" auto="true" type="list" verify="true">
+		<item type="str"><![CDATA[ANIMALS]]></item>
+	</categories>
+	<author auto="true" type="str" verify="true"><![CDATA[ELIZABETH ANNE BROWN]]></author>
+	<title auto="true" type="str" verify="true"><![CDATA[How these fish—'tiny tanks of the Amazon'—survive piranha bites]]></title>
+	<publish_date auto="true" type="str" verify="true"><![CDATA[JANUARY 21, 2021]]></publish_date>
+	<reading_time auto="true" type="str" verify="true"><![CDATA[• 6 MIN READ]]></reading_time>
+	<text auto="true" type="str" verify="true"><![CDATA[Researchers in a California biomechanics lab recently staged what should have been the most lopsided freshwater cage match of all time. In one corner was a red-bellied piranha, the razor-toothed terror of the Amazon. In the other was a three-striped cory, a faintly dopey-looking catfish about an inch long.
+The piranha edged the cory into a corner, opened wide and chomped down once, twice, ultimately 10 times—only for the catfish to wriggle free and drift off unfazed, if a little miffed.
+“It’s not even a startle response, where it’s swimming away fast,” says Misty Paig-Tran, an associate professor of biological sciences at California State University, Fullerton, with a chuckle of admiration. “It’s just kind of like, ‘What are you doing? Stop ruining my day.’”
+How can this small fish take such abuse? According to recent research published in the scientific journal Acta Biomaterialia, the secret is its armor: specialized scales made of collagen and mineral that punch above their weight. Researchers hope that humans might be able to imitate these scales to make stronger and lighter materials, such as body armor.
+To swim another day
+The three-striped cory belongs to a taxonomic group called the armored catfish and
+spends its days snuffling along the sandy banks and muddy river bottoms of the Amazon and its tributaries. It uses its fleshy, taste bud-lined whiskers to forage for food.
+At an inch or two in length, these fish can be eaten whole by some large predators, including giant otters and pink river dolphins. But when it comes to piranhas—especially the smaller ones that tend to be interested in the catfish to begin with—the cory’s scales give the creature a fighting chance.
+In the course of the study, three-striped corys were introduced to captive raised red-bellied piranhas. Andrew Lowe, now a research assistant at Chapman University, figured the cory’s prognosis was grim—videos of aquarists feeding their pet piranhas reveal that one bite to the abdomen can be enough to wrench the guts from similar-size, non-armored fish.
+But the corys held their own. They flared out sharp spines on their pectoral fins and back to force piranhas away from the main chink in their armor—the area around their gills, where a well-placed bite can result in decapitation.
+The piranhas usually struck the tail, but they struggled to break through the cory’s armor. When they did, they had to chomp down an average of eight times to put a dent in its tail armor. The piranhas had an even harder time breaking through the cory’s abdominal scales—they only succeeded 20 percent of the time, with an average of 10 bites until puncture.
+Three of the piranhas eventually gave up after their attacks failed, while the other seven piranhas were able to dispatch their prey. But that’s with as many rematches as the piranhas wanted and nowhere for the cory to escape. In the wild, murky water and plants provide plenty of places for a clever fish to hide, Lowe says.
+“You just need to keep your armor intact until the piranha releases you,” Paig-Tran says. If they can escape without damage to their internal organs, “they live to fight another piranha another day.”
+Copying the cory
+Unlike the rainbow fish or the betta in your grade school classroom, the cory’s scales aren’t rounded. They look more like a fanned deck of cards, long and thin and arranged in two vertical rows that run the length of its body. And while the scales on most living fishes are formed by odontoblasts, the cells that create our teeth, the cory’s scales are grown from osteoblasts, the cells responsible for building bone.
+These scales, also known as scutes, are quite tough. But Lowe says it’s actually a soft part of the fish’s armor that gives it an edge. Each scute is composed of two layers: a hard, mineralized surface and a network of woven tissue made from collagen, the same protein that makes our skin elastic and forms the scaffolding of bones.
+Hard surfaces—particularly thin ones, like mirrors or dinner plates—are prone to brittleness and cracking under stress. While the scute’s tough mineral layer makes it harder for the piranha’s teeth to punch the cory full of holes, that soft layer underneath helps absorb the force of the bites to keep the scale itself from going crunch.
+Marc Meyers, a materials engineer at University of California, San Diego, who was not involved in the study, describes the results of Lowe’s cage match as intriguing. “Dermal armor has evolved many times in nature,” each specially tailored to the predator-prey “arms race” of the local ecology, Meyers says. He added he’d be eager to examine the nanostructure of the soft part of the cory’s scute.
+If the cory is a featherweight, the Amazon’s heavyweight is the arapaima, weighing in at 200 pounds and measuring up to six feet long. Meyers and his team have studied this fish for a decade. The arapaima’s armor uses collagen arranged in complicated corkscrewing sheets to diffuse pressure. The cory’s collagen might be like the arapaima’s in miniature, or it might be an entirely novel structure, Meyers says.
+Humans have been trying to puzzle out how fish armor works for thousands of years and have even used it to design armor. Paig-Tran points to intricate fish-scale breastplates from the Han Dynasty and the Scythians as examples of attempts to mimic nature, an exercise known as biomimesis.
+Today researchers see the hard-soft interface in fish species like the cory as a template for how to create lighter, more flexible body armor. Teams around the world have tested fish-scale armor made from 3D printed polymers, glass, and perforated ceramics, and a group at Imperial College London recently prototyped micro-thin polymer scales reinforced with carbon fiber that, intact, withstood a 46 percent higher load than a continuous layer of the carbon fiber polymer.
+Paig-Tran says she’s not surprised fish like the “tiny tank of the Amazon” have a fin up on human inventors. They’ve been at it for millions of years, after all.]]></text>
+</doc>

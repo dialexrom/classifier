@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<doc>
+	<url auto="true" type="str" verify="true"><![CDATA[https://www.nationalgeographic.com/travel/article/5-pandemic-tech-innovations-that-will-change-travel-forever]]></url>
+	<categories theme="travel" auto="true" type="list" verify="true">
+		<item type="str"><![CDATA[TRAVEL]]></item>
+	</categories>
+	<author auto="true" type="str" verify="true"><![CDATA[JACKIE SNOW]]></author>
+	<title auto="true" type="str" verify="true"><![CDATA[5 pandemic tech innovations that will change travel forever]]></title>
+	<publish_date auto="true" type="str" verify="true"><![CDATA[NOVEMBER 3, 2021]]></publish_date>
+	<reading_time auto="true" type="str" verify="true"><![CDATA[• 10 MIN READ]]></reading_time>
+	<editor_notes auto="true" type="str" verify="true"><![CDATA[Jackie Snow is a Washington, D.C.-based writer specializing in travel and technology. Follow her on Instagram.]]></editor_notes>
+	<text auto="true" type="str" verify="true"><![CDATA[In the 20 months since the COVID-19 pandemic began, technological innovations have gone from futuristic to familiar. These days it’s hard to be out in the world without encountering QR-coded menus or supplying digital vaccine passports.
+As the tourism industry—which logged a billion fewer international arrivals in 2020 than 2019—sputters back to life, masks may begin to disappear, but many pandemic-era tech tools will continue to factor into your trips.
+“Consumers will come to expect technologies that make them more confident about travel,” says Steve Shur, the president of the Travel Technology Association. “Some of these changes are here to stay.”
+In fact, a 2021 Pew Research survey of 915 policy leaders, science researchers, and other experts predicts that, by 2025, our daily lives could be even more influenced by algorithms, remote work, and what some call “tele-everything.” 
+While novel interventions such as real-time translation devices and facial recognition passport control may make travel safer and more efficient, there are downsides, including concerns about privacy, data security, and biased technology. Here are some of the innovations that travelers will continue to see and use.
+Virtual and augmented reality
+When the pandemic shut down travel, museums and tourist destinations turned to augmented reality (AR) and virtual reality (VR) to create online exhibits and experiences. While some of these experiences are best seen with a VR headset, most can be enjoyed with just a computer or smartphone.
+The Xplore Petra app launched in June 2020, allowing users to “visit” Jordan’s most iconic archaeological site by projecting a scaled-down version of the ruins. Lights over Lapland, an Arctic travel company, launched a VR experience to show off the Northern Lights using VR headsets or computer screens.
+(How virtual reality might change your next trip, even after COVID-19.)
+Post-pandemic, VR and AR may enhance actual trips by adding experiences such as a simulated climb up the Matterhorn at Lucerne’s Swiss Museum of Transport. The Hunt Museum in Limerick, Ireland, has a VR attraction in which visitors immerse themselves in “The Garden of Earthly Delights,” a 500-year-old painting by Hieronymus Bosch.
+The Museum of Natural History in Paris has an AR exhibit that brings visitors face to face with extinct animals in digital form. The National Museum of Singapore has an installation called “Story of the Forest,” where sightseers explore a virtual landscape comprised of almost 70 nature drawings from the museum collection. The Smithsonian Institution’s National Museum of Natural History, in Washington, D.C., has an app that uses AR to show what some of its animal skeletons would look like with skin and muscle over the bones, offering a new view of a collection dating back to the 1880s.
+“VR is not going to replace travel and tourism. It is just going to enhance tourism,” says Anu Pillai, who runs the Digital Center of Excellence at Wipro, a technology company.
+Crowd control
+To help enforce social distancing, cities, airports, and museums tested or rolled out crowd-control technology including Singapore’s roaming, vaguely terrifying robots that announce people are too close together and signs indicating how large crowds are at airport gates. As throngs of travelers return to popular destinations, similar methods and devices may be implemented to prevent overtourism.
+In Italy during the pandemic, Venice began tracking visitors using cameras designed to catch criminals. Post-pandemic, it plans to harness them to keep tourist numbers at manageable levels, perhaps in concert with the mayor’s proposal to add electronic gates at major entry points (cruise ship docks, train stations) that can be closed if the city gets overcrowded.
+(These tech changes could make your next flight safer.)
+“We know minute by minute how many people are passing and where they are going,” Simone Venturini, Venice’s top tourism official, told the New York Times. “We have total control of the city.”
+Amsterdam, which also struggles with overtourism, tracks how visitors use Amsterdam’s City Card, a flat-fee pass to museums and public transport. Beach Check UK launched this summer with real-time information on how busy dozens of beaches are along the English coast, guiding travelers away from packed areas.
+“Technology can be used to collect data in order to both make better decisions and communicate those decisions,” says Christopher Imbsen, director of sustainability at World Travel & Tourism Council.
+UV-C cleaning
+Hospitals have used UV-C light to disinfect and kill viruses for more than two decades. Now, indoor public spaces including airports, gyms, and movie theaters are adding UV-C to halt viral spread.
+“UV-C is having its heyday right now,” says Peter Veloz, CEO of UltraViolet Devices, which makes UV disinfecting technology.
+UV-C has germicidal properties that combat COVID-19 and other nasties, both in the air or on surfaces. Depending on the location, new UV-C installations go into HVACs, on escalator handrails, or through airports and planes via light-equipped robots that disinfect as they go.
+If installed and operated correctly, a UV-C system can kill all sorts of bacteria and germs. Even seasonal flu bugs might be zapped before they spread. “COVID-19 could come and go, but what won't disappear are normal pathogens,” Veloz says.
+QR codes at restaurants
+In the early days of the pandemic, when transmission of the COVID-19 wasn’t yet well understood, restaurants hurried to provide QR codes. The little black boxes of pixelated dots and dashes could be scanned with a smart phone to bring up a menu, let you order from it, and then allow you to pay your bill, all with limited virus-spreading interactions with servers.
+While earlier fears that people could catch the virus via menus and other surfaces have been disproven, the codes have proven convenient and will probably stick around, especially with late-pandemic worker shortages.
+Such convenience might mean a trade off with privacy, however, since the little codes can potentially gather a large amount of information from users. Some QR programs just take a food order, but others mine data like a patron’s dining history, age, and gender. The restaurant could use that info to send them coupons or event invitations—or sell it to third parties.
+“It’s an example of companies exploiting COVID-19 to extend tracking,” says Jay Stanley, a senior policy analyst at the ACLU. “Moving everything to mobile opens people to new ways of tracking and control.”
+Travelers should know that QR codes can be hacked; you might scan one, place a dinner order, and wind up compromising your credit card instead. Stanley recommends treating QR codes just as you do links in unknown emails. Either use your phone to look up the restaurant’s menu on the internet or install a protective app like Kaspersky QR Scanner, which will give users a warning if the code isn’t safe.
+Contact-tracing tools
+Public health groups used contact tracing methods to identify and track down people who were potentially exposed to infectious diseases such as Zika and HIV, and offer counseling, screening, and treatment. These traditional tools were usually based on phone calls to ask individuals about who they were in contact with and to continue researching exposure. The pandemic pushed officials to scale up such efforts and implement new, higher-tech ones to track viral spread and provide information.  
+For instance, Apple and Google added contact-tracing functions to new smartphone software, allowing users to opt in and get alerts if they come into close contact with an infected person.
+(If you must travel during a pandemic, here’s how to protect your health.)
+“There’s been a strong recognition about the value of and the important role of contact tracing for infectious disease prevention and control,” says Elizabeth Ruebush, a senior analyst for infectious disease and immunization policy at the Association of State and Territorial Health Officials. “But we’ve never seen it implemented at the scale of COVID-19.”
+Other technologies, such as automated texts, viral heat maps and even CCTV with facial recognition could help track other infectious illnesses or make us ready for the next pandemic.
+Even with fancy new apps, however, phone calls and personal outreach will still be at the center of public health. “These tools are aimed to enhance, but not replace, traditional contact tracing,” Ruebush says.
+COVID-19 has sped up our adoption of technology. The downside is that this may make it even harder to turn off smartphones while on vacation. Then again, wanderlust is now stronger than ever—and getting lost in the moment still hasn’t been harnessed by a digital code.]]></text>
+</doc>

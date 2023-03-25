@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<doc>
+	<url auto="true" type="str" verify="true"><![CDATA[https://www.nationalgeographic.com/animals/article/graphic-starling-murmurations-dazzling-ubiquitous-puzzling
+]]></url>
+	<categories theme="animals" auto="true" type="list" verify="true">
+		<item type="str"><![CDATA[ANIMALS]]></item>
+		<item type="str"><![CDATA[DECODER]]></item>
+	</categories>
+	<author auto="true" type="str" verify="true"><![CDATA[DIANA MARQUES]]></author>
+	<title auto="true" type="str" verify="true"><![CDATA[Starling murmurations are dazzling, ubiquitous, and puzzling]]></title>
+	<publish_date auto="true" type="str" verify="true"><![CDATA[MARCH 25, 2021]]></publish_date>
+	<reading_time auto="true" type="str" verify="true"><![CDATA[• 5 MIN READ]]></reading_time>
+	<editor_notes auto="true" type="str" verify="true"><![CDATA[Diana Marques and Kennedy Elliott, NGM Staff. Videos: Nick Dunlop. Sources: Charlotte Hemelrijk, University of Groningen; Andrea Cavagna, National Research Council of Italy; Melanie Haiken; Shannon Butler et al. Social birds copy each other’s lateral scans while monitoring group mates with low-acuity vision. Animal Behaviour
+A version of this story appears in the October 2021 issue of National Geographic magazine.]]></editor_notes>
+	<text auto="true" type="str" verify="true"><![CDATA[Look up on a fall or winter day in the Northern Hemisphere and you may see the fast, synchronous cloud of thousands of birds swirling over their roosts. While migrating south, starlings take rest stops for a few weeks at a time and perform murmurations together at dusk, sometimes lasting up to 45 minutes at a time.
+The most common explanation is that murmurations are a defense against predators. But these massive flocks can also attract predators, making the phenomenon a scientific mystery.
+Peregrine falcons, starlings' most common predators in North America, elicit the most elaborate murmurations. A frequent hunting strategy is to attack the flock once, suddenly and from a distance.
+Simulation of a murmuration
+The flock's escape maneuvers create complex and overlapping patterns that change rapidly in density and shape. Each escape pattern depends on the level of threat and on the pattern that preceded it. (Learn more about what we know about starling murmurations.)
+Wave events, in which the birds create rolling movements through the air, confuse the attacker. The darker pulse seen during a wave event reflects a change in how the starlings’ bodies are oriented, rather than an increase in density.
+There is no leader in a murmuration—the flock behaves as one single entity. To stay united through the different escape patterns, each bird tracks and mimics the behavior of seven neighbors. Focusing on a fixed number of birds allows the group to adapt quickly, becoming dense or sparse, changing shape, or even splitting into two—all while staying together.
+Starlings’ peripheral vision helps to monitor other flock members and look for predators.
+The falcon’s surprise attack yields the best results, particularly if it manages to force a bird to straggle from the flock. Though stragglers are relatively rare, predators are much better at catching this single bird than a group.]]></text>
+</doc>

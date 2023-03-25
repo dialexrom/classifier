@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<doc>
+	<url auto="true" type="str" verify="true"><![CDATA[https://www.nationalgeographic.com/magazine/article/tomas-diagne-wants-africa-to-lead-in-turtle-conservation
+]]></url>
+	<categories theme="animals" auto="true" type="list" verify="true">
+		<item type="str"><![CDATA[MAGAZINE]]></item>
+		<item type="str"><![CDATA[INNOVATOR]]></item>
+	</categories>
+	<author auto="true" type="str" verify="true"><![CDATA[ANNIE ROTH]]></author>
+	<title auto="true" type="str" verify="true"><![CDATA[He wants the ‘homeland of the turtle’ to lead in conserving the species]]></title>
+	<publish_date auto="true" type="str" verify="true"><![CDATA[JANUARY 8, 2021]]></publish_date>
+	<reading_time auto="true" type="str" verify="true"><![CDATA[• 2 MIN READ]]></reading_time>
+	<editor_notes auto="true" type="str" verify="true"><![CDATA[This story appears in the February 2021 issue of National Geographic magazine.]]></editor_notes>
+	<text auto="true" type="str" verify="true"><![CDATA[About 260 million years ago the earliest ancestor of turtles and tortoises, a bulbous reptile known as Eunotosaurus africanus, emerged from an egg in South Africa’s Karoo Basin. Its evolutionary descendants spread around the globe, giving rise to the turtles and tortoises living today.
+“Africa is the homeland of the turtle, yet they are totally overlooked here,” says conservationist and National Geographic Explorer Tomas Diagne. In his home country of Senegal and across much of Africa, habitat loss and overharvesting have imperiled many species of turtles—but little attention has been paid to their plight, he says. Determined to change that, Diagne has devoted the past 25 years to studying, rescuing, captive breeding, and reintroducing threatened and endangered tortoises and turtles in Senegal.
+(This endangered turtle sports a mohawk—made of algae.)
+As a teenager, Diagne spent a lot of time rescuing sick and injured African spurred tortoises, the third largest tortoise (some males grow to 200 pounds). Eventually, his hobby blossomed into a career in reptile conservation. In 2009 he founded the African Chelonian Institute, Africa’s first conservation organization dedicated solely to the preservation of the continent’s 60 turtle and tortoise species. By inspiring the next generation of African turtle researchers, Diagne hopes to make the continent a world leader in turtle conservation.]]></text>
+</doc>

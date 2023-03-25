@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<doc>
+	<url auto="true" type="str" verify="true"><![CDATA[https://www.nationalgeographic.com/animals/article/tips-to-make-sure-youre-buying-sustainable-salmon
+]]></url>
+	<categories theme="animals" auto="true" type="list" verify="true">
+		<item type="str"><![CDATA[ANIMALS]]></item>
+		<item type="str"><![CDATA[WILDLIFE WATCH]]></item>
+	</categories>
+	<author auto="true" type="str" verify="true"><![CDATA[RENE EBERSOLE]]></author>
+	<title auto="true" type="str" verify="true"><![CDATA[Tips to make sure you're buying sustainable salmon]]></title>
+	<publish_date auto="true" type="str" verify="true"><![CDATA[SEPTEMBER 24, 2021]]></publish_date>
+	<reading_time auto="true" type="str" verify="true"><![CDATA[• 5 MIN READ]]></reading_time>
+	<editor_notes auto="true" type="str" verify="true"><![CDATA[Wildlife Watch is an investigative reporting project between National Geographic Society and National Geographic Partners focusing on wildlife crime and exploitation. Read more Wildlife Watch stories here, and learn more about National Geographic Society’s nonprofit mission at natgeo.com/impact. Send tips, feedback, and story ideas to NGP.WildlifeWatch@natgeo.com.]]></editor_notes>
+	<text auto="true" type="str" verify="true"><![CDATA[You don’t always get what you pay for when you buy what’s advertised as sustainable, wild-caught salmon, research shows. (Learn more about why and how salmon fraud happens.)
+The fish may be from a threatened population, or it could be a chemical-laden, farmed-raised cousin. To protect consumers and marine ecosystems, environmental advocates are calling for more precise labeling and for making each fish traceable throughout the entire supply chain. Meanwhile, sustainable seafood experts offer these tips.]]></text>
+</doc>

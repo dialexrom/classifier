@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<doc>
+	<url auto="true" type="str" verify="true"><![CDATA[https://www.nationalgeographic.com/animals/article/how-these-tiny-bunny-faced-animals-survive-the-winter
+]]></url>
+	<categories theme="animals" auto="true" type="list" verify="true">
+		<item type="str"><![CDATA[ANIMALS]]></item>
+	</categories>
+	<author auto="true" type="str" verify="true"><![CDATA[JASON BITTEL]]></author>
+	<title auto="true" type="str" verify="true"><![CDATA[These tiny, bunny-faced animals have an unusual strategy for surviving the winter]]></title>
+	<publish_date auto="true" type="str" verify="true"><![CDATA[JULY 19, 2021]]></publish_date>
+	<reading_time auto="true" type="str" verify="true"><![CDATA[• 5 MIN READ]]></reading_time>
+	<text auto="true" type="str" verify="true"><![CDATA[To avoid the harsh temperatures and lack of food that come with colder weather, some animals migrate. Others hibernate. But the pikas of the Qinghai-Tibetan Plateau in northwestern China do neither.
+Pikas are pint-size, rodent-like mammals that look like a cross between a guinea pig and a rabbit. Of the 29 species worldwide, the American pika, native to the western United States and Canada, is well known for the way it collects plants in its mouth before stashing the food stockpiles underground to endure the winter.
+But how its Asian relative, the plateau pika, survives on dry, wind-whipped steppes, where temperatures routinely dip to minus 20 degrees Fahrenheit (minus 29 degrees Celsius) and plants shrivel in the winter, has long been a mystery. Unlike some other cold-weather animals, pikas can’t rely on blubber, winter weight-gain, or sleeping through the cold months. (Learn more about another teddy bear-faced pika rediscovered in China.)
+Now, after 13 years of research, scientists say they’ve discovered the plateau pika’s secret to survival: the animals slow down their metabolism and supplement their usual diet of plants with yak droppings, which contain valuable, undigested nutrients.
+The first part of the formula makes sense, since a reduced metabolism means the animals need to obtain fewer calories each day. But the second part was more surprising to researchers.
+“At first nobody we spoke to believed the story about them eating the yak feces,” says study leader John Speakman, a physiologist at the University of Aberdeen in Scotland, in an email.
+“The accumulated evidence, however, is now incontrovertible,” says Speakman, whose study was published today in the Proceedings of the National Academy of Sciences.
+This behavior, known as interspecific coprophagy, is quite rare among vertebrates. Speakman believes yak waste is likely an ample, low-effort food source that allows pikas both to save energy and to stay hidden from predators, such as peregrine falcons and Tibetan foxes.
+Beneficial bacteria
+In 2009, Speakman found a half-eaten yak dropping inside a plateau pika’s burrow, triggering his curiosity. "Then I really started to think: That's strange. Maybe they eat this stuff." Then a year later, when two pika died accidentally in a trap, an analysis of their gut revealed the presence of yak feces. 
+To prove the theory, Speakman and colleagues analyzed gut contents of more than 300 deceased plateau pikas—collected for another study in 2018 and 2019—and found that around 22 percent of the sample contained yak DNA. This is probably an underestimate because DNA degrades when feces sit in the sun, he says.
+Another series of tests revealed that in the winter, the makeup of pikas’ microbiomes shift to resemble those of the yaks’—suggesting that the animals may be also acquiring beneficial bacteria from yak feces.
+In 2017 and 2018, the scientists captured hand-held video of plateau pikas eating yak droppings on four separate occasions. Taken together, these various pieces of evidence confirm the coprophagy. (Read how wild yaks may be climbing higher due to climate change.) 
+Coprophagy may also explain why plateau pikas tend to be more plentiful in areas inhabited by yaks. Livestock herders see pikas as direct competitors for food and poison the animals by the millions, Speakman says. 
+“However, things are changing, and more recent attempts to control them have investigated the use of contraceptives, which have less collateral damage” to other species, he adds.
+The scat heard round the world 
+“For 30 years I've been giving talks about pikas and telling the story of how the American pika collects marmot scat in its hay piles, in hopes that someone in the audience will tell me why,” Chris Ray, a quantitative ecologist at the University of Colorado Boulder, says in an email.
+There is no proof yet of parallels between the Central Asian plateau pikas’ coprophagy and American pika behavior. But the new study has “shaken up” her thinking about the potential importance of marmot waste to the American pika, a species that is declining across the American West because of rising temperatures, Ray says.
+“I live up high in the Rocky Mountains, so I know how cold the winters are where some pikas live, and I've actually been baffled about how they manage to survive.”]]></text>
+</doc>

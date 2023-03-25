@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<doc>
+	<url auto="true" type="str" verify="true"><![CDATA[https://www.nationalgeographic.com/animals/article/these-worms-hear-with-their-whole-bodies-a-first-in-nature
+]]></url>
+	<categories theme="animals" auto="true" type="list" verify="true">
+		<item type="str"><![CDATA[ANIMALS]]></item>
+	</categories>
+	<author auto="true" type="str" verify="true"><![CDATA[REBECCA DZOMBAK]]></author>
+	<title auto="true" type="str" verify="true"><![CDATA[Tiny worms ‘hear’ without an eardrum, surprising scientists]]></title>
+	<publish_date auto="true" type="str" verify="true"><![CDATA[OCTOBER 4, 2021]]></publish_date>
+	<reading_time auto="true" type="str" verify="true"><![CDATA[• 7 MIN READ]]></reading_time>
+	<text auto="true" type="str" verify="true"><![CDATA[“Can worms hear?” is an age-old question, one Darwin attempted to answer in the 1800s by having his son serenade earthworms with a bassoon and seeing if they wriggled away. Darwin’s answer: no. But new research suggests otherwise.
+While other complex senses, such as vision, are widespread in the animal kingdom, so far, hearing has been found only in vertebrates and some arthropods. Almost all hearing animals rely on an organ that vibrates when sound waves hit it, firing neurons associated with processing sound. In humans and most other vertebrates, that’s our ear, comprising a delicate eardrum and inner ear.
+But C. elegans, a tiny worm that’s ubiquitous in biology research, doesn’t have a specialized hearing organ. Instead, new experiments have revealed, its skin doubles as a sound-sensing membrane, effectively making the worm’s entire body an eardrum. This study, detailed recently in the journal Neuron, presents the first evidence ever found that a non-arthropod invertebrate can sense airborne sound.
+The results come from more than a decade of targeted research led by Shawn Xu’s lab at the University of Michigan. Building on others' work that found the one-millimeter worms could smell, taste, and touch, the team uncovered evidence that the worms also had the senses of proprioception—the so-called sixth sense of body awareness—and light detection."(Read how superhuman hearing may someday be possible.)
+“And since then, there’s only been one thing missing, and that is the auditory sensation,” says Xu, a sensory biologist. “We’ve been spending all these years searching for this one.”
+The discovery, he says, presents a big leap in our understanding of both how organisms can hear and how hearing may have evolved. It also could expand the search for hearing in more organisms that lack obvious ears, such as mollusks and other worms (including Darwin’s earthworms) and shed light on animals whose hearing capabilities scientists are still deciphering, like some salamanders and “earless” frogs.
+Sensing sound
+Many animals that lack a specialized eardrum, and thus can’t technically hear, have evolved other ways to process sound.
+“Earless” frogs have an inner ear but not an eardrum, which means they may rely instead on a combination of their skin and bones to conduct the sound waves to their inner ear.
+Jumping spiders and other small insects detect sound waves by picking up the vibrations with ultra-sensitive hairs on their legs.
+But a sound-sensing mechanism for most invertebrates, generally considered relatively simple organisms, has long eluded scientists. For one thing, such experiments require advanced technology, and scientists may not have thought it worth the effort, because few expected worms to sense sound. (Read what whale ears have that ours don’t.)
+To find out if the worms could hear or sense sound, Xu’s lab picked up where Darwin left off: playing a loud noise at them. To ensure the worms were detecting sound waves in the air rather than vibrations in the petri dish, the team genetically modified worms to remove their sense of touch. 
+Elizabeth Ronan, a graduate student in Xu’s lab who co-authored the study, also checked that the gelatin-like substance they crawled on was not making the worms jiggle. Even without being able to feel, the study worms backed away when sounds blared at their heads, and they crawled forward when the sound was behind them.
+“It was really exciting to find out that when you play sounds at the worms, they do move,” says Ronan, who hypothesizes that these soil-dwelling worms found the world over evolved the ability to process sound so they could hear—and escape—predators, such as centipedes and winged insects.
+But just seeing the worms wriggle away from sound wasn’t sufficient evidence that the invertebrates were really sensing sound waves. It was possible the worms were merely picking up on the physical movements of the sound waves on their skin, rather than detecting electrical signals with their nervous system.
+So the team, following standards for ethical animal research, next tested another type of genetically modified worm covered in blisters, which they hypothesized would disrupt any potential vibrations sensed by the worm’s skin and prevent the neurons from firing. The sounds blasted, and the worms remained still. Bingo.
+By testing yet more worms and running a suite of advanced genetic tests, the team ultimately tracked down the molecules in the nervous system responsible for sensing sound: nicotinic acetylcholine receptors, a well-studied neurotransmitter found in many animals. The molecules, found on all parts of the worm’s skin, detect sound waves and signal their presence to the brain. Worms modified to not have these molecules didn’t respond to sound.
+“We’ve been looking at this molecule the longest we’ve looked at any neurotransmitter, and nobody else saw what they saw,” says Gal Haspel, a neuroethologist at the New Jersey Institute of Technology who was not involved in the research.
+Haspel called the research methods impeccable, adding that the team “really turned over all the stones and figured out exactly what cellular mechanism is underlying the [behavioral] response.”
+But is it “hearing”?
+Overall, the experiments showed that C. elegans can sense and respond to airborne sound waves using a mechanism that’s both genetically unique and similar to our own hearing. (See the animal with the biggest ears on Earth, relative to size.)
+But whether the worms were actually hearing is another question. Some scientists believe that deeper levels of perception, such as consciousness or connecting sounds to a cognitive map, are necessary for true “hearing.” To Xu, sensing and responding to airborne sound—the behavior his study called “auditory sensation”—falls short of meeting that criterion.
+“Perception means you have to process the signals and then inject some meaning into it,” he says.
+But other scientists see more wiggle room. “Many other lower phyla could potentially be sensing sound through unexpected ways,” Ronan says. “I mean, this worm is literally a fluid-filled tube that’s able to detect these [sound] sensations. So I think it can at least open people up to explore what is hearing.”
+Daphne Soares, a neuroethologist at the New Jersey Institute of Technology also not involved in the study, believes there is an important distinction between physically sensing sound waves, as she believes the worms are, and true hearing. “It’s very, very cool, but I don’t think it’s hearing,” she says.
+Even so, both Soares and Haspel see potential in expanding the experiments to reflect actual environmental conditions, such as testing for worms’ responses to the sound of scuttling predators. And the study’s authors are excited about where sound-sensing could be found next.
+The research could even raise questions deep in evolutionary history, Soares says, because the earliest animals on Earth were mostly soft-bodied. “They had to sense the environment somehow!”]]></text>
+</doc>

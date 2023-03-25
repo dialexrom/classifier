@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<doc>
+	<url auto="true" type="str" verify="true"><![CDATA[https://www.nationalgeographic.com/magazine/article/what-a-sandcastle-specialist-uses-to-build-his-masterpieces]]></url>
+	<categories theme="travel" auto="true" type="list" verify="true"/>
+	<author auto="true" type="str" verify="true"><![CDATA[CATHERINE ZUCKERMAN]]></author>
+	<title auto="true" type="str" verify="true"><![CDATA[What a sandcastle specialist uses to build his masterpieces]]></title>
+	<publish_date auto="true" type="str" verify="true"><![CDATA[JULY 13, 2021]]></publish_date>
+	<reading_time auto="true" type="str" verify="true"><![CDATA[• 2 MIN READ]]></reading_time>
+	<editor_notes auto="true" type="str" verify="true"><![CDATA[This story appears in the August 2021 issue of National Geographic magazine.]]></editor_notes>
+	<text auto="true" type="str" verify="true"><![CDATA[Every summer, Lou Gagnon spends a week at the beach building sandcastles—big ones. An artist and former architect, Gagnon picked up the seaside pastime more than 20 years ago as a way to entertain his young daughter. His creations have since advanced from simple structures to elaborately sculpted tableaux with spires reaching as high as five feet. Gagnon’s sandcastles are intentionally impressionistic and built near the tide line, where water and wind can reshape them. “There’s an eternal quality to the form,” he says, “but an ephemeral quality to the object.”]]></text>
+</doc>
